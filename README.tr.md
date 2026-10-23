@@ -10,7 +10,11 @@
 
 ---
 
-![Mavi & Beyaz Porselen Vitrini](showcase_porcelain.png)
+<div align="center">
+  <img src="logo_porcelain.png" width="160" alt="Mavi & Beyaz Porselen Logosu" />
+  <br/><br/>
+  <img src="kapak_gorseli_porcelain.png" width="100%" alt="Mavi & Beyaz Porselen Resmi Kapak Afişi" />
+</div>
 
 ---
 

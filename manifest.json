@@ -7720,5 +7720,8 @@
         "cobalt"
       ]
     }
-  ]
+  ],
+  "coverImage": "cover.png",
+  "logo": "cover.png",
+  "schemaVersion": 1
 }

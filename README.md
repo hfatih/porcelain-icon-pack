@@ -10,7 +10,11 @@
 
 ---
 
-![Blue & White Porcelain Showcase](showcase_porcelain.png)
+<div align="center">
+  <img src="logo_porcelain.png" width="160" alt="Blue & White Porcelain Logo" />
+  <br/><br/>
+  <img src="kapak_gorseli_porcelain.png" width="100%" alt="Blue & White Porcelain Official Cover Banner" />
+</div>
 
 ---
 
