@@ -1,7 +1,7 @@
 <div align="center">
   <img src="logo_porcelain.png" alt="Mavi & Beyaz Porselen Logosu" width="104" height="104">
   <h1>Blue & White Porcelain</h1>
-  <p><strong>Elgato Stream Deck ve evoX için 480 Adet El Yapımı İznik & Delft Çinisi Seramik Squircle İkonu (Beyaz-Mavi & Mavi-Beyaz).</strong></p>
+  <p><strong>evoX ve Makro Tuş Takımları için 480 Adet El Yapımı İznik & Delft Çinisi Seramik Squircle İkonu (Beyaz-Mavi & Mavi-Beyaz).</strong></p>
 
   <p>
     <strong>Dil / Language:</strong> <a href="README.md"><strong>EN</strong></a> | <a href="README.tr.md"><strong>TR</strong></a>
@@ -39,7 +39,7 @@
 
 ## Genel Bakış
 
-**Blue & White Porcelain**, Osmanlı İznik çinilerinden ve tarihi Delftware porselen sanatından ilham alarak **Elgato Stream Deck**, **evoXdeck**, **Loupedeck** ve **Touch Portal** cihazları için özel olarak tasarlanmış ultra lüks bir seramik ikon paketidir.
+**Blue & White Porcelain**, Osmanlı İznik çinilerinden ve tarihi Delftware porselen sanatından ilham alarak **evoXdeck**, **Makro Tuş Takımları**, **Loupedeck** ve **Touch Portal** cihazları için özel olarak tasarlanmış ultra lüks bir seramik ikon paketidir.
 
 Her ikon, hassas süperelips ($p=3.75, r=120$) squircle tabanında $144\times 144$ doğal çözünürlükte modellenmiş; porselen sır parlaklığı, elle çizilmiş köşe filigranları ve gerçekçi 3D kabartma dokusuyla donatılmıştır.
 
@@ -106,9 +106,9 @@ Tüm 480 ikonu tarayıcınızda canlı olarak arayabilir, filtreleyebilir ve den
 3. İndirdiğiniz `.evoxpack` dosyasını uygulama penceresine sürükleyip bırakın veya Paket Yöneticisi üzerinden içe aktarın.
 4. 480 ikonun tamamı anında kategorilerine göre düzenlenmiş olarak Stream Deck panelinize yüklenecektir!
 
-### 2. Elgato Stream Deck
+### 2. Makro Tuş Takımları
 1. Depodaki veya yayın arşivindeki **`icons/`** klasörünü bilgisayarınıza indirin.
-2. Elgato Stream Deck yazılımında istediğiniz tuşa tıklayın.
+2. Deck / makro tuş takımı yazılımınızda istediğiniz tuşa tıklayın.
 3. `Beyaz-Mavi` veya `Mavi-Beyaz` klasöründeki istediğiniz 144×144 PNG ikonunu tuş yuvasına sürükleyip bırakın.
 
 ### 3. Loupedeck & Touch Portal
@@ -121,7 +121,7 @@ Tüm 480 ikonu tarayıcınızda canlı olarak arayabilir, filtreleyebilir ve den
 
 | Özellik | Değer |
 | :--- | :--- |
-| **Doğal Çözünürlük** | $144\times 144$ Piksel (Elgato Stream Deck doğal ızgara standardı) |
+| **Doğal Çözünürlük** | $144\times 144$ Piksel (Makro Deck 144x144 doğal ızgara standardı) |
 | **Süper Örnekleme** | $288\times 288$ Alt piksel modelleme, Lanczos/Area ile 144px indirgeme |
 | **Karo Geometrisi** | $p = 3.75$ Hassas squircle süperelips |
 | **Renk Derinliği** | 32-bit RGBA PNG, pürüzsüz alfa saydamlık |

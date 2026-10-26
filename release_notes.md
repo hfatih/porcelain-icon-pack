@@ -1,6 +1,6 @@
 # 🏺 Blue & White Porcelain v1.0.0
 
-A luxurious cobalt glazed ceramic icon suite for Elgato Stream Deck & evoX.
+A luxurious cobalt glazed ceramic icon suite for evoX & macro keypads.
 
 ### 🌟 What's Included:
 - **480 High-Resolution 144×144 Tiles:** 240 Hand-Curated Symbols across 2 Signature Finishes:

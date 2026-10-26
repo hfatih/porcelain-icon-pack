@@ -1,7 +1,7 @@
 <div align="center">
   <img src="logo_porcelain.png" alt="Blue & White Porcelain Logo" width="104" height="104">
   <h1>Blue & White Porcelain</h1>
-  <p><strong>480 Handcrafted Iznik & Delft Ceramic Squircle Icons for Elgato Stream Deck & evoX (Beyaz-Mavi & Mavi-Beyaz).</strong></p>
+  <p><strong>480 Handcrafted Iznik & Delft Ceramic Squircle Icons for evoX & Macro Keypads (Beyaz-Mavi & Mavi-Beyaz).</strong></p>
 
   <p>
     <strong>Language:</strong> <a href="README.md"><strong>EN</strong></a> | <a href="README.tr.md"><strong>TR</strong></a>
@@ -39,7 +39,7 @@
 
 ## Overview
 
-**Blue & White Porcelain** is an ultra-premium, artisan ceramic icon suite inspired by classical Ottoman Iznik tiles and antique Delftware porcelain, crafted specifically for **Elgato Stream Deck**, **evoXdeck**, **Loupedeck**, and **Touch Portal**.
+**Blue & White Porcelain** is an ultra-premium, artisan ceramic icon suite inspired by classical Ottoman Iznik tiles and antique Delftware porcelain, crafted specifically for **evoXdeck**, **Stream & Macro Decks**, **Loupedeck**, and **Touch Portal**.
 
 Each icon is rendered on a precision squircle base ($p=3.75, r=120$) at native $144\times 144$ resolution, combining rich cobalt glaze sheen, hand-drawn ceramic filigree corner flourishes, edge palmettes, and realistic 3D tactile ceramic embossing.
 
@@ -106,9 +106,9 @@ You can preview, search, filter and test all 480 icons directly in your web brow
 3. Drag and drop the `.evoxpack` file directly into the application window or import it via the Pack Manager.
 4. All 480 icons are immediately installed and organized by category!
 
-### 2. Elgato Stream Deck
+### 2. Macro Decks & Keypads
 1. Download or extract the **`icons/`** folder from this repository or the release archive.
-2. In the Elgato Stream Deck software, select any key slot.
+2. In your macro deck software, select any key slot.
 3. Drag and drop any 144×144 PNG icon from the `Beyaz-Mavi` or `Mavi-Beyaz` directory directly onto the key.
 
 ### 3. Loupedeck & Touch Portal
@@ -121,7 +121,7 @@ You can preview, search, filter and test all 480 icons directly in your web brow
 
 | Property | Value |
 | :--- | :--- |
-| **Grid Resolution** | $144\times 144$ Pixels (Native Elgato Stream Deck standard) |
+| **Grid Resolution** | $144\times 144$ Pixels (Native Macro Deck 144x144 standard) |
 | **Render Supersampling** | $288\times 288$ Sub-pixel rendering downsampled with Lanczos/Area |
 | **Tile Superellipse Power** | $p = 3.75$ (Precision squircle geometry) |
 | **Color Model** | 32-bit RGBA PNG with smooth alpha transparency |
