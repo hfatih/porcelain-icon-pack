@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Platform-Stream%20Deck%20%7C%20evoX-0078D6?style=flat-square" alt="Platformlar">
     <img src="https://img.shields.io/badge/%C3%87%C3%B6z%C3%BCn%C3%BCrl%C3%BCk-Retina%20144x144%20PNG-10B981?style=flat-square" alt="Çözünürlük">
     <img src="https://img.shields.io/badge/Paket-.evoxpack%20v1.0.0-2762e8?style=flat-square" alt="Paket">
-    <img src="https://img.shields.io/badge/Lisans-MIT-blue?style=flat-square" alt="Lisans MIT">
+    <img src="https://img.shields.io/badge/Lisans-GPL--3.0-blue?style=flat-square" alt="GPL-3.0-only">
   </p>
   <p align="center">
     <img src="https://hits.sh/github.com/hfatih/porcelain-icon-pack.svg?style=flat-square&label=g%C3%B6r%C3%BCnt%C3%BClenme&color=2762e8" alt="Görüntülenme">
@@ -127,10 +127,14 @@ Tüm 480 ikonu tarayıcınızda canlı olarak arayabilir, filtreleyebilir ve den
 | **Renk Derinliği** | 32-bit RGBA PNG, pürüzsüz alfa saydamlık |
 | **Paket Formatı** | `.evoxpack` arşivi + bağımsız PNG ikonları |
 | **Tasarımcı & Geliştirici** | [Hfatih](https://github.com/Hfatih) |
-| **Lisans** | [MIT Lisansı](LICENSE) (Kişisel ve ticari yayınlarda tamamen ücretsiz) |
+| **Lisans** | [GNU GPL v3.0](LICENSE) (Kişisel ve ticari yayınlarda tamamen ücretsiz) |
 
 ---
 
 <div align="center">
   <p>💙 <a href="https://github.com/Hfatih">Hfatih</a> tarafından tasarlandı ve geliştirildi.</p>
 </div>
+
+## Lisans
+
+Bu sürümde bize ait kod ve özgün içerik [GNU GPL v3.0](LICENSE) (GPL-3.0-only) altında yayımlanır. Üçüncü taraf kod, yazı tipleri, görseller, veriler ve marka öğeleri kendi lisans ve atıflarına tabidir.

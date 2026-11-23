@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Platforms-Stream%20Deck%20%7C%20evoX-0078D6?style=flat-square" alt="Platforms">
     <img src="https://img.shields.io/badge/Resolution-Retina%20144x144%20PNG-10B981?style=flat-square" alt="Resolution">
     <img src="https://img.shields.io/badge/Package-.evoxpack%20v1.0.0-2762e8?style=flat-square" alt="Package">
-    <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="License MIT">
+    <img src="https://img.shields.io/badge/License-GPL--3.0-blue?style=flat-square" alt="GPL-3.0-only">
   </p>
   <p align="center">
     <img src="https://hits.sh/github.com/hfatih/porcelain-icon-pack.svg?style=flat-square&label=views&color=2762e8" alt="Views">
@@ -127,10 +127,14 @@ You can preview, search, filter and test all 480 icons directly in your web brow
 | **Color Model** | 32-bit RGBA PNG with smooth alpha transparency |
 | **Package Format** | `.evoxpack` archive + standalone PNGs |
 | **Author** | [Hfatih](https://github.com/Hfatih) |
-| **License** | [MIT License](LICENSE) (Free for personal and commercial use) |
+| **License** | [GNU GPL v3.0](LICENSE) (Free for personal and commercial use) |
 
 ---
 
 <div align="center">
   <p>Crafted with 💙 by <a href="https://github.com/Hfatih">Hfatih</a></p>
 </div>
+
+## License
+
+Project-owned code and original material in this revision are licensed under [GNU GPL v3.0](LICENSE) (GPL-3.0-only). Third-party code, fonts, imagery, data, and brand assets retain their own terms and attributions.
