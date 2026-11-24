@@ -19,2402 +19,2402 @@
       {
         "id": "porcelain-blue-white-001-obs",
         "name": "OBS Studio (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-001-obs.png"
+        "path": "icons/porcelain-blue-white-001-obs.png"
       },
       {
         "id": "porcelain-blue-white-002-twitch",
         "name": "Twitch (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-002-twitch.png"
+        "path": "icons/porcelain-blue-white-002-twitch.png"
       },
       {
         "id": "porcelain-blue-white-003-youtube",
         "name": "YouTube (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-003-youtube.png"
+        "path": "icons/porcelain-blue-white-003-youtube.png"
       },
       {
         "id": "porcelain-blue-white-004-kick",
         "name": "Kick Streaming (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-004-kick.png"
+        "path": "icons/porcelain-blue-white-004-kick.png"
       },
       {
         "id": "porcelain-blue-white-005-streamlabs",
         "name": "Streamlabs (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-005-streamlabs.png"
+        "path": "icons/porcelain-blue-white-005-streamlabs.png"
       },
       {
         "id": "porcelain-blue-white-006-mic",
         "name": "Microphone (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-006-mic.png"
+        "path": "icons/porcelain-blue-white-006-mic.png"
       },
       {
         "id": "porcelain-blue-white-007-mic-off",
         "name": "Mute Microphone (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-007-mic-off.png"
+        "path": "icons/porcelain-blue-white-007-mic-off.png"
       },
       {
         "id": "porcelain-blue-white-008-mic-vocal",
         "name": "Studio Vocal Mic (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-008-mic-vocal.png"
+        "path": "icons/porcelain-blue-white-008-mic-vocal.png"
       },
       {
         "id": "porcelain-blue-white-009-camera",
         "name": "Camera (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-009-camera.png"
+        "path": "icons/porcelain-blue-white-009-camera.png"
       },
       {
         "id": "porcelain-blue-white-010-camera-off",
         "name": "Disable Camera (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-010-camera-off.png"
+        "path": "icons/porcelain-blue-white-010-camera-off.png"
       },
       {
         "id": "porcelain-blue-white-011-video",
         "name": "Video Camera (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-011-video.png"
+        "path": "icons/porcelain-blue-white-011-video.png"
       },
       {
         "id": "porcelain-blue-white-012-video-off",
         "name": "Video Off (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-012-video-off.png"
+        "path": "icons/porcelain-blue-white-012-video-off.png"
       },
       {
         "id": "porcelain-blue-white-013-webcam",
         "name": "Webcam Device (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-013-webcam.png"
+        "path": "icons/porcelain-blue-white-013-webcam.png"
       },
       {
         "id": "porcelain-blue-white-014-radio",
         "name": "Live Radio Stream (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-014-radio.png"
+        "path": "icons/porcelain-blue-white-014-radio.png"
       },
       {
         "id": "porcelain-blue-white-015-tv",
         "name": "Display TV (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-015-tv.png"
+        "path": "icons/porcelain-blue-white-015-tv.png"
       },
       {
         "id": "porcelain-blue-white-016-clapperboard",
         "name": "Clapperboard Scene (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-016-clapperboard.png"
+        "path": "icons/porcelain-blue-white-016-clapperboard.png"
       },
       {
         "id": "porcelain-blue-white-017-film",
         "name": "Film Strip (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-017-film.png"
+        "path": "icons/porcelain-blue-white-017-film.png"
       },
       {
         "id": "porcelain-blue-white-018-music",
         "name": "Music Track (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-018-music.png"
+        "path": "icons/porcelain-blue-white-018-music.png"
       },
       {
         "id": "porcelain-blue-white-019-disc",
         "name": "Record Vinyl Disc (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-019-disc.png"
+        "path": "icons/porcelain-blue-white-019-disc.png"
       },
       {
         "id": "porcelain-blue-white-020-headphones",
         "name": "Headset Audio (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-020-headphones.png"
+        "path": "icons/porcelain-blue-white-020-headphones.png"
       },
       {
         "id": "porcelain-blue-white-021-volume",
         "name": "Volume Low (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-021-volume.png"
+        "path": "icons/porcelain-blue-white-021-volume.png"
       },
       {
         "id": "porcelain-blue-white-022-volume-2",
         "name": "Volume High (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-022-volume-2.png"
+        "path": "icons/porcelain-blue-white-022-volume-2.png"
       },
       {
         "id": "porcelain-blue-white-023-volume-x",
         "name": "Mute Audio (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-023-volume-x.png"
+        "path": "icons/porcelain-blue-white-023-volume-x.png"
       },
       {
         "id": "porcelain-blue-white-024-volume-off",
         "name": "Audio Device Off (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-024-volume-off.png"
+        "path": "icons/porcelain-blue-white-024-volume-off.png"
       },
       {
         "id": "porcelain-blue-white-025-play",
         "name": "Play Media (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-025-play.png"
+        "path": "icons/porcelain-blue-white-025-play.png"
       },
       {
         "id": "porcelain-blue-white-026-pause",
         "name": "Pause Media (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-026-pause.png"
+        "path": "icons/porcelain-blue-white-026-pause.png"
       },
       {
         "id": "porcelain-blue-white-027-square",
         "name": "Stop Media (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-027-square.png"
+        "path": "icons/porcelain-blue-white-027-square.png"
       },
       {
         "id": "porcelain-blue-white-028-skip-forward",
         "name": "Skip Track Forward (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-028-skip-forward.png"
+        "path": "icons/porcelain-blue-white-028-skip-forward.png"
       },
       {
         "id": "porcelain-blue-white-029-skip-back",
         "name": "Skip Track Back (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-029-skip-back.png"
+        "path": "icons/porcelain-blue-white-029-skip-back.png"
       },
       {
         "id": "porcelain-blue-white-030-repeat",
         "name": "Loop Playback (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-030-repeat.png"
+        "path": "icons/porcelain-blue-white-030-repeat.png"
       },
       {
         "id": "porcelain-blue-white-031-shuffle",
         "name": "Shuffle Tracks (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-031-shuffle.png"
+        "path": "icons/porcelain-blue-white-031-shuffle.png"
       },
       {
         "id": "porcelain-blue-white-032-cast",
         "name": "Cast / AirPlay (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-032-cast.png"
+        "path": "icons/porcelain-blue-white-032-cast.png"
       },
       {
         "id": "porcelain-blue-white-033-screen-share",
         "name": "Screen Share (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-033-screen-share.png"
+        "path": "icons/porcelain-blue-white-033-screen-share.png"
       },
       {
         "id": "porcelain-blue-white-034-monitor-play",
         "name": "Monitor Playback (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-034-monitor-play.png"
+        "path": "icons/porcelain-blue-white-034-monitor-play.png"
       },
       {
         "id": "porcelain-blue-white-035-audio-lines",
         "name": "Audio Lines EQ (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-035-audio-lines.png"
+        "path": "icons/porcelain-blue-white-035-audio-lines.png"
       },
       {
         "id": "porcelain-blue-white-036-audio-waveform",
         "name": "Audio Waveform (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-036-audio-waveform.png"
+        "path": "icons/porcelain-blue-white-036-audio-waveform.png"
       },
       {
         "id": "porcelain-blue-white-037-sparkles",
         "name": "Magic Sparkles (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-037-sparkles.png"
+        "path": "icons/porcelain-blue-white-037-sparkles.png"
       },
       {
         "id": "porcelain-blue-white-038-activity",
         "name": "Stream Health Activity (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-038-activity.png"
+        "path": "icons/porcelain-blue-white-038-activity.png"
       },
       {
         "id": "porcelain-blue-white-039-bell",
         "name": "Notification Bell (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-039-bell.png"
+        "path": "icons/porcelain-blue-white-039-bell.png"
       },
       {
         "id": "porcelain-blue-white-040-bell-ring",
         "name": "Ringing Bell Alert (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-040-bell-ring.png"
+        "path": "icons/porcelain-blue-white-040-bell-ring.png"
       },
       {
         "id": "porcelain-blue-white-041-message-square",
         "name": "Stream Chat (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-041-message-square.png"
+        "path": "icons/porcelain-blue-white-041-message-square.png"
       },
       {
         "id": "porcelain-blue-white-042-heart",
         "name": "Supporter Heart (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-042-heart.png"
+        "path": "icons/porcelain-blue-white-042-heart.png"
       },
       {
         "id": "porcelain-blue-white-043-flame",
         "name": "Hype Train Flame (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-043-flame.png"
+        "path": "icons/porcelain-blue-white-043-flame.png"
       },
       {
         "id": "porcelain-blue-white-044-award",
         "name": "Badge Award (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-044-award.png"
+        "path": "icons/porcelain-blue-white-044-award.png"
       },
       {
         "id": "porcelain-blue-white-045-trophy",
         "name": "Winner Trophy (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-045-trophy.png"
+        "path": "icons/porcelain-blue-white-045-trophy.png"
       },
       {
         "id": "porcelain-blue-white-046-steam",
         "name": "Steam (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-046-steam.png"
+        "path": "icons/porcelain-blue-white-046-steam.png"
       },
       {
         "id": "porcelain-blue-white-047-steamdeck",
         "name": "Steam Deck (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-047-steamdeck.png"
+        "path": "icons/porcelain-blue-white-047-steamdeck.png"
       },
       {
         "id": "porcelain-blue-white-048-epic-games",
         "name": "Epic Games (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-048-epic-games.png"
+        "path": "icons/porcelain-blue-white-048-epic-games.png"
       },
       {
         "id": "porcelain-blue-white-049-riot-games",
         "name": "Riot Games (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-049-riot-games.png"
+        "path": "icons/porcelain-blue-white-049-riot-games.png"
       },
       {
         "id": "porcelain-blue-white-050-minecraft",
         "name": "Minecraft (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-050-minecraft.png"
+        "path": "icons/porcelain-blue-white-050-minecraft.png"
       },
       {
         "id": "porcelain-blue-white-051-valorant",
         "name": "Valorant (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-051-valorant.png"
+        "path": "icons/porcelain-blue-white-051-valorant.png"
       },
       {
         "id": "porcelain-blue-white-052-apex-legends",
         "name": "Apex Legends (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-052-apex-legends.png"
+        "path": "icons/porcelain-blue-white-052-apex-legends.png"
       },
       {
         "id": "porcelain-blue-white-053-cs2",
         "name": "Counter-Strike 2 (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-053-cs2.png"
+        "path": "icons/porcelain-blue-white-053-cs2.png"
       },
       {
         "id": "porcelain-blue-white-054-fortnite",
         "name": "Fortnite (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-054-fortnite.png"
+        "path": "icons/porcelain-blue-white-054-fortnite.png"
       },
       {
         "id": "porcelain-blue-white-055-roblox",
         "name": "Roblox (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-055-roblox.png"
+        "path": "icons/porcelain-blue-white-055-roblox.png"
       },
       {
         "id": "porcelain-blue-white-056-battlenet",
         "name": "Battle.net (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-056-battlenet.png"
+        "path": "icons/porcelain-blue-white-056-battlenet.png"
       },
       {
         "id": "porcelain-blue-white-057-ea-app",
         "name": "EA App (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-057-ea-app.png"
+        "path": "icons/porcelain-blue-white-057-ea-app.png"
       },
       {
         "id": "porcelain-blue-white-058-ubisoft",
         "name": "Ubisoft Connect (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-058-ubisoft.png"
+        "path": "icons/porcelain-blue-white-058-ubisoft.png"
       },
       {
         "id": "porcelain-blue-white-059-gog-galaxy",
         "name": "GOG Galaxy (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-059-gog-galaxy.png"
+        "path": "icons/porcelain-blue-white-059-gog-galaxy.png"
       },
       {
         "id": "porcelain-blue-white-060-playstation",
         "name": "PlayStation Network (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-060-playstation.png"
+        "path": "icons/porcelain-blue-white-060-playstation.png"
       },
       {
         "id": "porcelain-blue-white-061-xbox",
         "name": "Xbox Live (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-061-xbox.png"
+        "path": "icons/porcelain-blue-white-061-xbox.png"
       },
       {
         "id": "porcelain-blue-white-062-nintendo-switch",
         "name": "Nintendo Switch (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-062-nintendo-switch.png"
+        "path": "icons/porcelain-blue-white-062-nintendo-switch.png"
       },
       {
         "id": "porcelain-blue-white-063-gamepad-2",
         "name": "Gamepad Controller (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-063-gamepad-2.png"
+        "path": "icons/porcelain-blue-white-063-gamepad-2.png"
       },
       {
         "id": "porcelain-blue-white-064-gamepad",
         "name": "Classic Gamepad (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-064-gamepad.png"
+        "path": "icons/porcelain-blue-white-064-gamepad.png"
       },
       {
         "id": "porcelain-blue-white-065-swords",
         "name": "Crossed Swords (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-065-swords.png"
+        "path": "icons/porcelain-blue-white-065-swords.png"
       },
       {
         "id": "porcelain-blue-white-066-sword",
         "name": "Combat Sword (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-066-sword.png"
+        "path": "icons/porcelain-blue-white-066-sword.png"
       },
       {
         "id": "porcelain-blue-white-067-shield",
         "name": "Knight Shield (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-067-shield.png"
+        "path": "icons/porcelain-blue-white-067-shield.png"
       },
       {
         "id": "porcelain-blue-white-068-shield-alert",
         "name": "Shield Warning (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-068-shield-alert.png"
+        "path": "icons/porcelain-blue-white-068-shield-alert.png"
       },
       {
         "id": "porcelain-blue-white-069-shield-check",
         "name": "Shield Verified (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-069-shield-check.png"
+        "path": "icons/porcelain-blue-white-069-shield-check.png"
       },
       {
         "id": "porcelain-blue-white-070-crown",
         "name": "Victory Crown (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-070-crown.png"
+        "path": "icons/porcelain-blue-white-070-crown.png"
       },
       {
         "id": "porcelain-blue-white-071-skull",
         "name": "Elimination Skull (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-071-skull.png"
+        "path": "icons/porcelain-blue-white-071-skull.png"
       },
       {
         "id": "porcelain-blue-white-072-bomb",
         "name": "Spike / Bomb (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-072-bomb.png"
+        "path": "icons/porcelain-blue-white-072-bomb.png"
       },
       {
         "id": "porcelain-blue-white-073-dices",
         "name": "RNG Dice Roll (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-073-dices.png"
+        "path": "icons/porcelain-blue-white-073-dices.png"
       },
       {
         "id": "porcelain-blue-white-074-zap",
         "name": "Energy Lightning (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-074-zap.png"
+        "path": "icons/porcelain-blue-white-074-zap.png"
       },
       {
         "id": "porcelain-blue-white-075-gem",
         "name": "Diamond Gem (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-075-gem.png"
+        "path": "icons/porcelain-blue-white-075-gem.png"
       },
       {
         "id": "porcelain-blue-white-076-ghost",
         "name": "Ghost Phantom (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-076-ghost.png"
+        "path": "icons/porcelain-blue-white-076-ghost.png"
       },
       {
         "id": "porcelain-blue-white-077-crosshair",
         "name": "Sniper Crosshair (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-077-crosshair.png"
+        "path": "icons/porcelain-blue-white-077-crosshair.png"
       },
       {
         "id": "porcelain-blue-white-078-joystick",
         "name": "Arcade Stick (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-078-joystick.png"
+        "path": "icons/porcelain-blue-white-078-joystick.png"
       },
       {
         "id": "porcelain-blue-white-079-rocket",
         "name": "Boost Rocket (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-079-rocket.png"
+        "path": "icons/porcelain-blue-white-079-rocket.png"
       },
       {
         "id": "porcelain-blue-white-080-medal",
         "name": "Medal of Honor (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-080-medal.png"
+        "path": "icons/porcelain-blue-white-080-medal.png"
       },
       {
         "id": "porcelain-blue-white-081-compass",
         "name": "Navigation Compass (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-081-compass.png"
+        "path": "icons/porcelain-blue-white-081-compass.png"
       },
       {
         "id": "porcelain-blue-white-082-flag",
         "name": "Capture The Flag (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-082-flag.png"
+        "path": "icons/porcelain-blue-white-082-flag.png"
       },
       {
         "id": "porcelain-blue-white-083-axe",
         "name": "Battle Axe (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-083-axe.png"
+        "path": "icons/porcelain-blue-white-083-axe.png"
       },
       {
         "id": "porcelain-blue-white-084-pickaxe",
         "name": "Mining Pickaxe (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-084-pickaxe.png"
+        "path": "icons/porcelain-blue-white-084-pickaxe.png"
       },
       {
         "id": "porcelain-blue-white-085-target",
         "name": "Bullseye Target (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-085-target.png"
+        "path": "icons/porcelain-blue-white-085-target.png"
       },
       {
         "id": "porcelain-blue-white-086-pubg",
         "name": "PUBG Battlegrounds (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-086-pubg.png"
+        "path": "icons/porcelain-blue-white-086-pubg.png"
       },
       {
         "id": "porcelain-blue-white-087-dota-2",
         "name": "Dota 2 (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-087-dota-2.png"
+        "path": "icons/porcelain-blue-white-087-dota-2.png"
       },
       {
         "id": "porcelain-blue-white-088-league-of-legends",
         "name": "League of Legends (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-088-league-of-legends.png"
+        "path": "icons/porcelain-blue-white-088-league-of-legends.png"
       },
       {
         "id": "porcelain-blue-white-089-cyberpunk-2077",
         "name": "Cyberpunk 2077 (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-089-cyberpunk-2077.png"
+        "path": "icons/porcelain-blue-white-089-cyberpunk-2077.png"
       },
       {
         "id": "porcelain-blue-white-090-among-us",
         "name": "Among Us (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-090-among-us.png"
+        "path": "icons/porcelain-blue-white-090-among-us.png"
       },
       {
         "id": "porcelain-blue-white-091-photoshop",
         "name": "Adobe Photoshop (Ps) (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-091-photoshop.png"
+        "path": "icons/porcelain-blue-white-091-photoshop.png"
       },
       {
         "id": "porcelain-blue-white-092-premiere",
         "name": "Adobe Premiere Pro (Pr) (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-092-premiere.png"
+        "path": "icons/porcelain-blue-white-092-premiere.png"
       },
       {
         "id": "porcelain-blue-white-093-adobe-ae",
         "name": "Adobe After Effects (Ae) (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-093-adobe-ae.png"
+        "path": "icons/porcelain-blue-white-093-adobe-ae.png"
       },
       {
         "id": "porcelain-blue-white-094-adobe-ai",
         "name": "Adobe Illustrator (Ai) (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-094-adobe-ai.png"
+        "path": "icons/porcelain-blue-white-094-adobe-ai.png"
       },
       {
         "id": "porcelain-blue-white-095-adobe-id",
         "name": "Adobe InDesign (Id) (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-095-adobe-id.png"
+        "path": "icons/porcelain-blue-white-095-adobe-id.png"
       },
       {
         "id": "porcelain-blue-white-096-adobe-xd",
         "name": "Adobe XD (Xd) (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-096-adobe-xd.png"
+        "path": "icons/porcelain-blue-white-096-adobe-xd.png"
       },
       {
         "id": "porcelain-blue-white-097-figma",
         "name": "Figma Design (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-097-figma.png"
+        "path": "icons/porcelain-blue-white-097-figma.png"
       },
       {
         "id": "porcelain-blue-white-098-blender",
         "name": "Blender 3D (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-098-blender.png"
+        "path": "icons/porcelain-blue-white-098-blender.png"
       },
       {
         "id": "porcelain-blue-white-099-davinci-resolve",
         "name": "DaVinci Resolve (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-099-davinci-resolve.png"
+        "path": "icons/porcelain-blue-white-099-davinci-resolve.png"
       },
       {
         "id": "porcelain-blue-white-100-fl-studio",
         "name": "FL Studio DAW (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-100-fl-studio.png"
+        "path": "icons/porcelain-blue-white-100-fl-studio.png"
       },
       {
         "id": "porcelain-blue-white-101-audacity",
         "name": "Audacity Audio (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-101-audacity.png"
+        "path": "icons/porcelain-blue-white-101-audacity.png"
       },
       {
         "id": "porcelain-blue-white-102-soundpad",
         "name": "Soundpad Effects (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-102-soundpad.png"
+        "path": "icons/porcelain-blue-white-102-soundpad.png"
       },
       {
         "id": "porcelain-blue-white-103-voicemeeter",
         "name": "Voicemeeter Audio (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-103-voicemeeter.png"
+        "path": "icons/porcelain-blue-white-103-voicemeeter.png"
       },
       {
         "id": "porcelain-blue-white-104-layers",
         "name": "Design Layers (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-104-layers.png"
+        "path": "icons/porcelain-blue-white-104-layers.png"
       },
       {
         "id": "porcelain-blue-white-105-crop",
         "name": "Canvas Crop Tool (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-105-crop.png"
+        "path": "icons/porcelain-blue-white-105-crop.png"
       },
       {
         "id": "porcelain-blue-white-106-palette",
         "name": "Color Swatch Palette (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-106-palette.png"
+        "path": "icons/porcelain-blue-white-106-palette.png"
       },
       {
         "id": "porcelain-blue-white-107-brush",
         "name": "Paint Brush (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-107-brush.png"
+        "path": "icons/porcelain-blue-white-107-brush.png"
       },
       {
         "id": "porcelain-blue-white-108-eraser",
         "name": "Eraser Tool (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-108-eraser.png"
+        "path": "icons/porcelain-blue-white-108-eraser.png"
       },
       {
         "id": "porcelain-blue-white-109-scissors",
         "name": "Cut Tool Scissors (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-109-scissors.png"
+        "path": "icons/porcelain-blue-white-109-scissors.png"
       },
       {
         "id": "porcelain-blue-white-110-image",
         "name": "Raster Graphic Image (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-110-image.png"
+        "path": "icons/porcelain-blue-white-110-image.png"
       },
       {
         "id": "porcelain-blue-white-111-aperture",
         "name": "Camera Aperture Lens (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-111-aperture.png"
+        "path": "icons/porcelain-blue-white-111-aperture.png"
       },
       {
         "id": "porcelain-blue-white-112-box",
         "name": "3D Wireframe Cube (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-112-box.png"
+        "path": "icons/porcelain-blue-white-112-box.png"
       },
       {
         "id": "porcelain-blue-white-113-wand-2",
         "name": "Magic Selection Wand (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-113-wand-2.png"
+        "path": "icons/porcelain-blue-white-113-wand-2.png"
       },
       {
         "id": "porcelain-blue-white-114-pipette",
         "name": "Color Eyedropper (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-114-pipette.png"
+        "path": "icons/porcelain-blue-white-114-pipette.png"
       },
       {
         "id": "porcelain-blue-white-115-pen-tool",
         "name": "Vector Bezier Pen (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-115-pen-tool.png"
+        "path": "icons/porcelain-blue-white-115-pen-tool.png"
       },
       {
         "id": "porcelain-blue-white-116-maximize-2",
         "name": "Fullscreen View (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-116-maximize-2.png"
+        "path": "icons/porcelain-blue-white-116-maximize-2.png"
       },
       {
         "id": "porcelain-blue-white-117-minimize-2",
         "name": "Minimize Canvas (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-117-minimize-2.png"
+        "path": "icons/porcelain-blue-white-117-minimize-2.png"
       },
       {
         "id": "porcelain-blue-white-118-ratio",
         "name": "Aspect Ratio 16:9 (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-118-ratio.png"
+        "path": "icons/porcelain-blue-white-118-ratio.png"
       },
       {
         "id": "porcelain-blue-white-119-grid",
         "name": "Alignment Guide Grid (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-119-grid.png"
+        "path": "icons/porcelain-blue-white-119-grid.png"
       },
       {
         "id": "porcelain-blue-white-120-shapes",
         "name": "Vector Shapes (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-120-shapes.png"
+        "path": "icons/porcelain-blue-white-120-shapes.png"
       },
       {
         "id": "porcelain-blue-white-121-file-image",
         "name": "Image Asset File (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-121-file-image.png"
+        "path": "icons/porcelain-blue-white-121-file-image.png"
       },
       {
         "id": "porcelain-blue-white-122-file-video",
         "name": "Video Asset File (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-122-file-video.png"
+        "path": "icons/porcelain-blue-white-122-file-video.png"
       },
       {
         "id": "porcelain-blue-white-123-file-audio",
         "name": "Audio Stems File (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-123-file-audio.png"
+        "path": "icons/porcelain-blue-white-123-file-audio.png"
       },
       {
         "id": "porcelain-blue-white-124-sliders-horizontal",
         "name": "EQ Sliders Mixer (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-124-sliders-horizontal.png"
+        "path": "icons/porcelain-blue-white-124-sliders-horizontal.png"
       },
       {
         "id": "porcelain-blue-white-125-contrast",
         "name": "Display Contrast (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-125-contrast.png"
+        "path": "icons/porcelain-blue-white-125-contrast.png"
       },
       {
         "id": "porcelain-blue-white-126-sun-medium",
         "name": "Exposure Brightness (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-126-sun-medium.png"
+        "path": "icons/porcelain-blue-white-126-sun-medium.png"
       },
       {
         "id": "porcelain-blue-white-127-clapperboard",
         "name": "Production Scene Take (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-127-clapperboard.png"
+        "path": "icons/porcelain-blue-white-127-clapperboard.png"
       },
       {
         "id": "porcelain-blue-white-128-sparkles",
         "name": "VFX Glitz Sparkle (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-128-sparkles.png"
+        "path": "icons/porcelain-blue-white-128-sparkles.png"
       },
       {
         "id": "porcelain-blue-white-129-key",
         "name": "Animation Keyframe (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-129-key.png"
+        "path": "icons/porcelain-blue-white-129-key.png"
       },
       {
         "id": "porcelain-blue-white-130-split",
         "name": "Split Clip Splitter (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-130-split.png"
+        "path": "icons/porcelain-blue-white-130-split.png"
       },
       {
         "id": "porcelain-blue-white-131-chatgpt",
         "name": "ChatGPT OpenAI (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-131-chatgpt.png"
+        "path": "icons/porcelain-blue-white-131-chatgpt.png"
       },
       {
         "id": "porcelain-blue-white-132-claude-ai",
         "name": "Claude AI Anthropic (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-132-claude-ai.png"
+        "path": "icons/porcelain-blue-white-132-claude-ai.png"
       },
       {
         "id": "porcelain-blue-white-133-gemini-ai",
         "name": "Google Gemini AI (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-133-gemini-ai.png"
+        "path": "icons/porcelain-blue-white-133-gemini-ai.png"
       },
       {
         "id": "porcelain-blue-white-134-notion",
         "name": "Notion Workspace (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-134-notion.png"
+        "path": "icons/porcelain-blue-white-134-notion.png"
       },
       {
         "id": "porcelain-blue-white-135-github",
         "name": "GitHub Repository (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-135-github.png"
+        "path": "icons/porcelain-blue-white-135-github.png"
       },
       {
         "id": "porcelain-blue-white-136-git-branch",
         "name": "Git Version Branch (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-136-git-branch.png"
+        "path": "icons/porcelain-blue-white-136-git-branch.png"
       },
       {
         "id": "porcelain-blue-white-137-terminal",
         "name": "Terminal Console (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-137-terminal.png"
+        "path": "icons/porcelain-blue-white-137-terminal.png"
       },
       {
         "id": "porcelain-blue-white-138-python",
         "name": "Python Language (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-138-python.png"
+        "path": "icons/porcelain-blue-white-138-python.png"
       },
       {
         "id": "porcelain-blue-white-139-vscode",
         "name": "Visual Studio Code (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-139-vscode.png"
+        "path": "icons/porcelain-blue-white-139-vscode.png"
       },
       {
         "id": "porcelain-blue-white-140-docker",
         "name": "Docker Container (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-140-docker.png"
+        "path": "icons/porcelain-blue-white-140-docker.png"
       },
       {
         "id": "porcelain-blue-white-141-apple",
         "name": "Apple macOS (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-141-apple.png"
+        "path": "icons/porcelain-blue-white-141-apple.png"
       },
       {
         "id": "porcelain-blue-white-142-windows",
         "name": "Microsoft Windows (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-142-windows.png"
+        "path": "icons/porcelain-blue-white-142-windows.png"
       },
       {
         "id": "porcelain-blue-white-143-linux",
         "name": "Linux Penguin (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-143-linux.png"
+        "path": "icons/porcelain-blue-white-143-linux.png"
       },
       {
         "id": "porcelain-blue-white-144-android",
         "name": "Android Google (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-144-android.png"
+        "path": "icons/porcelain-blue-white-144-android.png"
       },
       {
         "id": "porcelain-blue-white-145-chrome",
         "name": "Google Chrome (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-145-chrome.png"
+        "path": "icons/porcelain-blue-white-145-chrome.png"
       },
       {
         "id": "porcelain-blue-white-146-firefox",
         "name": "Mozilla Firefox (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-146-firefox.png"
+        "path": "icons/porcelain-blue-white-146-firefox.png"
       },
       {
         "id": "porcelain-blue-white-147-brave",
         "name": "Brave Browser (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-147-brave.png"
+        "path": "icons/porcelain-blue-white-147-brave.png"
       },
       {
         "id": "porcelain-blue-white-148-edge",
         "name": "Microsoft Edge (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-148-edge.png"
+        "path": "icons/porcelain-blue-white-148-edge.png"
       },
       {
         "id": "porcelain-blue-white-149-safari",
         "name": "Apple Safari (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-149-safari.png"
+        "path": "icons/porcelain-blue-white-149-safari.png"
       },
       {
         "id": "porcelain-blue-white-150-slack",
         "name": "Slack Workspace (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-150-slack.png"
+        "path": "icons/porcelain-blue-white-150-slack.png"
       },
       {
         "id": "porcelain-blue-white-151-trello",
         "name": "Trello Kanban (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-151-trello.png"
+        "path": "icons/porcelain-blue-white-151-trello.png"
       },
       {
         "id": "porcelain-blue-white-152-google-drive",
         "name": "Google Drive Cloud (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-152-google-drive.png"
+        "path": "icons/porcelain-blue-white-152-google-drive.png"
       },
       {
         "id": "porcelain-blue-white-153-database",
         "name": "SQL Database (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-153-database.png"
+        "path": "icons/porcelain-blue-white-153-database.png"
       },
       {
         "id": "porcelain-blue-white-154-server",
         "name": "Cloud Host Server (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-154-server.png"
+        "path": "icons/porcelain-blue-white-154-server.png"
       },
       {
         "id": "porcelain-blue-white-155-cloud",
         "name": "Cloud Network (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-155-cloud.png"
+        "path": "icons/porcelain-blue-white-155-cloud.png"
       },
       {
         "id": "porcelain-blue-white-156-cloud-download",
         "name": "Cloud Sync Download (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-156-cloud-download.png"
+        "path": "icons/porcelain-blue-white-156-cloud-download.png"
       },
       {
         "id": "porcelain-blue-white-157-cloud-upload",
         "name": "Cloud Sync Upload (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-157-cloud-upload.png"
+        "path": "icons/porcelain-blue-white-157-cloud-upload.png"
       },
       {
         "id": "porcelain-blue-white-158-code",
         "name": "Source Code XML (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-158-code.png"
+        "path": "icons/porcelain-blue-white-158-code.png"
       },
       {
         "id": "porcelain-blue-white-159-code-2",
         "name": "Source Code Block (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-159-code-2.png"
+        "path": "icons/porcelain-blue-white-159-code-2.png"
       },
       {
         "id": "porcelain-blue-white-160-bug",
         "name": "Debug Crash Bug (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-160-bug.png"
+        "path": "icons/porcelain-blue-white-160-bug.png"
       },
       {
         "id": "porcelain-blue-white-161-cpu",
         "name": "Processor Microchip (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-161-cpu.png"
+        "path": "icons/porcelain-blue-white-161-cpu.png"
       },
       {
         "id": "porcelain-blue-white-162-hard-drive",
         "name": "SSD Disk Storage (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-162-hard-drive.png"
+        "path": "icons/porcelain-blue-white-162-hard-drive.png"
       },
       {
         "id": "porcelain-blue-white-163-wifi",
         "name": "Wireless Wi-Fi (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-163-wifi.png"
+        "path": "icons/porcelain-blue-white-163-wifi.png"
       },
       {
         "id": "porcelain-blue-white-164-wifi-off",
         "name": "Disconnect Wi-Fi (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-164-wifi-off.png"
+        "path": "icons/porcelain-blue-white-164-wifi-off.png"
       },
       {
         "id": "porcelain-blue-white-165-bluetooth",
         "name": "Bluetooth Pair (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-165-bluetooth.png"
+        "path": "icons/porcelain-blue-white-165-bluetooth.png"
       },
       {
         "id": "porcelain-blue-white-166-battery-charging",
         "name": "Battery Charging (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-166-battery-charging.png"
+        "path": "icons/porcelain-blue-white-166-battery-charging.png"
       },
       {
         "id": "porcelain-blue-white-167-lock",
         "name": "Encrypted Lock (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-167-lock.png"
+        "path": "icons/porcelain-blue-white-167-lock.png"
       },
       {
         "id": "porcelain-blue-white-168-unlock",
         "name": "Decrypted Unlock (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-168-unlock.png"
+        "path": "icons/porcelain-blue-white-168-unlock.png"
       },
       {
         "id": "porcelain-blue-white-169-key",
         "name": "Authentication Key (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-169-key.png"
+        "path": "icons/porcelain-blue-white-169-key.png"
       },
       {
         "id": "porcelain-blue-white-170-shield-check",
         "name": "Verified SSL Shield (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-170-shield-check.png"
+        "path": "icons/porcelain-blue-white-170-shield-check.png"
       },
       {
         "id": "porcelain-blue-white-171-home",
         "name": "Home Dashboard (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-171-home.png"
+        "path": "icons/porcelain-blue-white-171-home.png"
       },
       {
         "id": "porcelain-blue-white-172-search",
         "name": "Search Bar (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-172-search.png"
+        "path": "icons/porcelain-blue-white-172-search.png"
       },
       {
         "id": "porcelain-blue-white-173-folder",
         "name": "Directory Folder (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-173-folder.png"
+        "path": "icons/porcelain-blue-white-173-folder.png"
       },
       {
         "id": "porcelain-blue-white-174-folder-open",
         "name": "Open Folder (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-174-folder-open.png"
+        "path": "icons/porcelain-blue-white-174-folder-open.png"
       },
       {
         "id": "porcelain-blue-white-175-file",
         "name": "Document File (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-175-file.png"
+        "path": "icons/porcelain-blue-white-175-file.png"
       },
       {
         "id": "porcelain-blue-white-176-file-text",
         "name": "Text Document File (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-176-file-text.png"
+        "path": "icons/porcelain-blue-white-176-file-text.png"
       },
       {
         "id": "porcelain-blue-white-177-save",
         "name": "Save File Disk (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-177-save.png"
+        "path": "icons/porcelain-blue-white-177-save.png"
       },
       {
         "id": "porcelain-blue-white-178-trash-2",
         "name": "Recycle Bin Trash (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-178-trash-2.png"
+        "path": "icons/porcelain-blue-white-178-trash-2.png"
       },
       {
         "id": "porcelain-blue-white-179-settings",
         "name": "System Settings Gear (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-179-settings.png"
+        "path": "icons/porcelain-blue-white-179-settings.png"
       },
       {
         "id": "porcelain-blue-white-180-settings-2",
         "name": "Preferences Controls (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-180-settings-2.png"
+        "path": "icons/porcelain-blue-white-180-settings-2.png"
       },
       {
         "id": "porcelain-blue-white-181-sliders",
         "name": "Hardware Sliders (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-181-sliders.png"
+        "path": "icons/porcelain-blue-white-181-sliders.png"
       },
       {
         "id": "porcelain-blue-white-182-refresh-cw",
         "name": "Refresh Browser Page (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-182-refresh-cw.png"
+        "path": "icons/porcelain-blue-white-182-refresh-cw.png"
       },
       {
         "id": "porcelain-blue-white-183-rotate-cw",
         "name": "Rotate Clockwise (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-183-rotate-cw.png"
+        "path": "icons/porcelain-blue-white-183-rotate-cw.png"
       },
       {
         "id": "porcelain-blue-white-184-rotate-ccw",
         "name": "Rotate Counter-Clockwise (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-184-rotate-ccw.png"
+        "path": "icons/porcelain-blue-white-184-rotate-ccw.png"
       },
       {
         "id": "porcelain-blue-white-185-download",
         "name": "Download to Disk (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-185-download.png"
+        "path": "icons/porcelain-blue-white-185-download.png"
       },
       {
         "id": "porcelain-blue-white-186-upload",
         "name": "Upload to Web (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-186-upload.png"
+        "path": "icons/porcelain-blue-white-186-upload.png"
       },
       {
         "id": "porcelain-blue-white-187-clipboard",
         "name": "Pasteboard Clipboard (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-187-clipboard.png"
+        "path": "icons/porcelain-blue-white-187-clipboard.png"
       },
       {
         "id": "porcelain-blue-white-188-clipboard-check",
         "name": "Checklist Done (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-188-clipboard-check.png"
+        "path": "icons/porcelain-blue-white-188-clipboard-check.png"
       },
       {
         "id": "porcelain-blue-white-189-copy",
         "name": "Copy to Clipboard (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-189-copy.png"
+        "path": "icons/porcelain-blue-white-189-copy.png"
       },
       {
         "id": "porcelain-blue-white-190-share-2",
         "name": "Share Network Link (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-190-share-2.png"
+        "path": "icons/porcelain-blue-white-190-share-2.png"
       },
       {
         "id": "porcelain-blue-white-191-external-link",
         "name": "Open External Window (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-191-external-link.png"
+        "path": "icons/porcelain-blue-white-191-external-link.png"
       },
       {
         "id": "porcelain-blue-white-192-bookmark",
         "name": "Bookmark Favorite (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-192-bookmark.png"
+        "path": "icons/porcelain-blue-white-192-bookmark.png"
       },
       {
         "id": "porcelain-blue-white-193-calendar",
         "name": "Calendar Schedule (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-193-calendar.png"
+        "path": "icons/porcelain-blue-white-193-calendar.png"
       },
       {
         "id": "porcelain-blue-white-194-calendar-days",
         "name": "Monthly Calendar (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-194-calendar-days.png"
+        "path": "icons/porcelain-blue-white-194-calendar-days.png"
       },
       {
         "id": "porcelain-blue-white-195-clock",
         "name": "Clock Time (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-195-clock.png"
+        "path": "icons/porcelain-blue-white-195-clock.png"
       },
       {
         "id": "porcelain-blue-white-196-timer",
         "name": "Countdown Timer (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-196-timer.png"
+        "path": "icons/porcelain-blue-white-196-timer.png"
       },
       {
         "id": "porcelain-blue-white-197-calculator",
         "name": "Math Calculator (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-197-calculator.png"
+        "path": "icons/porcelain-blue-white-197-calculator.png"
       },
       {
         "id": "porcelain-blue-white-198-power",
         "name": "Power On / Off (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-198-power.png"
+        "path": "icons/porcelain-blue-white-198-power.png"
       },
       {
         "id": "porcelain-blue-white-199-moon",
         "name": "Sleep Standby Mode (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-199-moon.png"
+        "path": "icons/porcelain-blue-white-199-moon.png"
       },
       {
         "id": "porcelain-blue-white-200-monitor",
         "name": "Display Monitor (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-200-monitor.png"
+        "path": "icons/porcelain-blue-white-200-monitor.png"
       },
       {
         "id": "porcelain-blue-white-201-keyboard",
         "name": "Typing Keyboard (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-201-keyboard.png"
+        "path": "icons/porcelain-blue-white-201-keyboard.png"
       },
       {
         "id": "porcelain-blue-white-202-mouse",
         "name": "Cursor Mouse (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-202-mouse.png"
+        "path": "icons/porcelain-blue-white-202-mouse.png"
       },
       {
         "id": "porcelain-blue-white-203-printer",
         "name": "Print Hardcopy (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-203-printer.png"
+        "path": "icons/porcelain-blue-white-203-printer.png"
       },
       {
         "id": "porcelain-blue-white-204-undo-2",
         "name": "Undo Previous Action (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-204-undo-2.png"
+        "path": "icons/porcelain-blue-white-204-undo-2.png"
       },
       {
         "id": "porcelain-blue-white-205-redo-2",
         "name": "Redo Action (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-205-redo-2.png"
+        "path": "icons/porcelain-blue-white-205-redo-2.png"
       },
       {
         "id": "porcelain-blue-white-206-check",
         "name": "Checkmark Approved (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-206-check.png"
+        "path": "icons/porcelain-blue-white-206-check.png"
       },
       {
         "id": "porcelain-blue-white-207-check-circle-2",
         "name": "Verified Check Badge (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-207-check-circle-2.png"
+        "path": "icons/porcelain-blue-white-207-check-circle-2.png"
       },
       {
         "id": "porcelain-blue-white-208-x",
         "name": "Cancel Dismiss (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-208-x.png"
+        "path": "icons/porcelain-blue-white-208-x.png"
       },
       {
         "id": "porcelain-blue-white-209-x-circle",
         "name": "Error Failed Badge (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-209-x-circle.png"
+        "path": "icons/porcelain-blue-white-209-x-circle.png"
       },
       {
         "id": "porcelain-blue-white-210-help-circle",
         "name": "Help FAQ Support (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-210-help-circle.png"
+        "path": "icons/porcelain-blue-white-210-help-circle.png"
       },
       {
         "id": "porcelain-blue-white-211-discord",
         "name": "Discord (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-211-discord.png"
+        "path": "icons/porcelain-blue-white-211-discord.png"
       },
       {
         "id": "porcelain-blue-white-212-spotify",
         "name": "Spotify Music (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-212-spotify.png"
+        "path": "icons/porcelain-blue-white-212-spotify.png"
       },
       {
         "id": "porcelain-blue-white-213-applemusic",
         "name": "Apple Music (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-213-applemusic.png"
+        "path": "icons/porcelain-blue-white-213-applemusic.png"
       },
       {
         "id": "porcelain-blue-white-214-soundcloud",
         "name": "SoundCloud (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-214-soundcloud.png"
+        "path": "icons/porcelain-blue-white-214-soundcloud.png"
       },
       {
         "id": "porcelain-blue-white-215-twitter-x",
         "name": "X (Formerly Twitter) (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-215-twitter-x.png"
+        "path": "icons/porcelain-blue-white-215-twitter-x.png"
       },
       {
         "id": "porcelain-blue-white-216-instagram",
         "name": "Instagram (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-216-instagram.png"
+        "path": "icons/porcelain-blue-white-216-instagram.png"
       },
       {
         "id": "porcelain-blue-white-217-tiktok",
         "name": "TikTok (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-217-tiktok.png"
+        "path": "icons/porcelain-blue-white-217-tiktok.png"
       },
       {
         "id": "porcelain-blue-white-218-threads",
         "name": "Threads Meta (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-218-threads.png"
+        "path": "icons/porcelain-blue-white-218-threads.png"
       },
       {
         "id": "porcelain-blue-white-219-reddit",
         "name": "Reddit Community (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-219-reddit.png"
+        "path": "icons/porcelain-blue-white-219-reddit.png"
       },
       {
         "id": "porcelain-blue-white-220-telegram",
         "name": "Telegram Messenger (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-220-telegram.png"
+        "path": "icons/porcelain-blue-white-220-telegram.png"
       },
       {
         "id": "porcelain-blue-white-221-whatsapp",
         "name": "WhatsApp Messenger (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-221-whatsapp.png"
+        "path": "icons/porcelain-blue-white-221-whatsapp.png"
       },
       {
         "id": "porcelain-blue-white-222-mail",
         "name": "Electronic Mail Envelope (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-222-mail.png"
+        "path": "icons/porcelain-blue-white-222-mail.png"
       },
       {
         "id": "porcelain-blue-white-223-mail-open",
         "name": "Read Mail (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-223-mail-open.png"
+        "path": "icons/porcelain-blue-white-223-mail-open.png"
       },
       {
         "id": "porcelain-blue-white-224-phone",
         "name": "Voice Call Phone (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-224-phone.png"
+        "path": "icons/porcelain-blue-white-224-phone.png"
       },
       {
         "id": "porcelain-blue-white-225-phone-call",
         "name": "Active Incoming Call (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-225-phone-call.png"
+        "path": "icons/porcelain-blue-white-225-phone-call.png"
       },
       {
         "id": "porcelain-blue-white-226-message-circle",
         "name": "Direct Message Chat (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-226-message-circle.png"
+        "path": "icons/porcelain-blue-white-226-message-circle.png"
       },
       {
         "id": "porcelain-blue-white-227-send",
         "name": "Send Outgoing Message (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-227-send.png"
+        "path": "icons/porcelain-blue-white-227-send.png"
       },
       {
         "id": "porcelain-blue-white-228-inbox",
         "name": "Mail Inbox (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-228-inbox.png"
+        "path": "icons/porcelain-blue-white-228-inbox.png"
       },
       {
         "id": "porcelain-blue-white-229-users",
         "name": "Community Members (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-229-users.png"
+        "path": "icons/porcelain-blue-white-229-users.png"
       },
       {
         "id": "porcelain-blue-white-230-user",
         "name": "User Profile Account (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-230-user.png"
+        "path": "icons/porcelain-blue-white-230-user.png"
       },
       {
         "id": "porcelain-blue-white-231-user-plus",
         "name": "Add Subscriber Friend (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-231-user-plus.png"
+        "path": "icons/porcelain-blue-white-231-user-plus.png"
       },
       {
         "id": "porcelain-blue-white-232-at-sign",
         "name": "Mention Handle (@) (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-232-at-sign.png"
+        "path": "icons/porcelain-blue-white-232-at-sign.png"
       },
       {
         "id": "porcelain-blue-white-233-hash",
         "name": "Hashtag Topic (#) (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-233-hash.png"
+        "path": "icons/porcelain-blue-white-233-hash.png"
       },
       {
         "id": "porcelain-blue-white-234-link-2",
         "name": "Direct Hyperlink (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-234-link-2.png"
+        "path": "icons/porcelain-blue-white-234-link-2.png"
       },
       {
         "id": "porcelain-blue-white-235-thumbs-up",
         "name": "Like Thumbs Up (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-235-thumbs-up.png"
+        "path": "icons/porcelain-blue-white-235-thumbs-up.png"
       },
       {
         "id": "porcelain-blue-white-236-smile",
         "name": "Emote Reaction (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-236-smile.png"
+        "path": "icons/porcelain-blue-white-236-smile.png"
       },
       {
         "id": "porcelain-blue-white-237-star",
         "name": "Favorite Star (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-237-star.png"
+        "path": "icons/porcelain-blue-white-237-star.png"
       },
       {
         "id": "porcelain-blue-white-238-pin",
         "name": "Pinned Message (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-238-pin.png"
+        "path": "icons/porcelain-blue-white-238-pin.png"
       },
       {
         "id": "porcelain-blue-white-239-map-pin",
         "name": "Location Tag (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-239-map-pin.png"
+        "path": "icons/porcelain-blue-white-239-map-pin.png"
       },
       {
         "id": "porcelain-blue-white-240-globe",
         "name": "Worldwide Web Globe (Mavi-Beyaz)",
-        "path": "assets/icons/porcelain-blue-white-240-globe.png"
+        "path": "icons/porcelain-blue-white-240-globe.png"
       },
       {
         "id": "porcelain-white-blue-001-obs",
         "name": "OBS Studio (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-001-obs.png"
+        "path": "icons/porcelain-white-blue-001-obs.png"
       },
       {
         "id": "porcelain-white-blue-002-twitch",
         "name": "Twitch (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-002-twitch.png"
+        "path": "icons/porcelain-white-blue-002-twitch.png"
       },
       {
         "id": "porcelain-white-blue-003-youtube",
         "name": "YouTube (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-003-youtube.png"
+        "path": "icons/porcelain-white-blue-003-youtube.png"
       },
       {
         "id": "porcelain-white-blue-004-kick",
         "name": "Kick Streaming (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-004-kick.png"
+        "path": "icons/porcelain-white-blue-004-kick.png"
       },
       {
         "id": "porcelain-white-blue-005-streamlabs",
         "name": "Streamlabs (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-005-streamlabs.png"
+        "path": "icons/porcelain-white-blue-005-streamlabs.png"
       },
       {
         "id": "porcelain-white-blue-006-mic",
         "name": "Microphone (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-006-mic.png"
+        "path": "icons/porcelain-white-blue-006-mic.png"
       },
       {
         "id": "porcelain-white-blue-007-mic-off",
         "name": "Mute Microphone (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-007-mic-off.png"
+        "path": "icons/porcelain-white-blue-007-mic-off.png"
       },
       {
         "id": "porcelain-white-blue-008-mic-vocal",
         "name": "Studio Vocal Mic (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-008-mic-vocal.png"
+        "path": "icons/porcelain-white-blue-008-mic-vocal.png"
       },
       {
         "id": "porcelain-white-blue-009-camera",
         "name": "Camera (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-009-camera.png"
+        "path": "icons/porcelain-white-blue-009-camera.png"
       },
       {
         "id": "porcelain-white-blue-010-camera-off",
         "name": "Disable Camera (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-010-camera-off.png"
+        "path": "icons/porcelain-white-blue-010-camera-off.png"
       },
       {
         "id": "porcelain-white-blue-011-video",
         "name": "Video Camera (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-011-video.png"
+        "path": "icons/porcelain-white-blue-011-video.png"
       },
       {
         "id": "porcelain-white-blue-012-video-off",
         "name": "Video Off (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-012-video-off.png"
+        "path": "icons/porcelain-white-blue-012-video-off.png"
       },
       {
         "id": "porcelain-white-blue-013-webcam",
         "name": "Webcam Device (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-013-webcam.png"
+        "path": "icons/porcelain-white-blue-013-webcam.png"
       },
       {
         "id": "porcelain-white-blue-014-radio",
         "name": "Live Radio Stream (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-014-radio.png"
+        "path": "icons/porcelain-white-blue-014-radio.png"
       },
       {
         "id": "porcelain-white-blue-015-tv",
         "name": "Display TV (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-015-tv.png"
+        "path": "icons/porcelain-white-blue-015-tv.png"
       },
       {
         "id": "porcelain-white-blue-016-clapperboard",
         "name": "Clapperboard Scene (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-016-clapperboard.png"
+        "path": "icons/porcelain-white-blue-016-clapperboard.png"
       },
       {
         "id": "porcelain-white-blue-017-film",
         "name": "Film Strip (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-017-film.png"
+        "path": "icons/porcelain-white-blue-017-film.png"
       },
       {
         "id": "porcelain-white-blue-018-music",
         "name": "Music Track (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-018-music.png"
+        "path": "icons/porcelain-white-blue-018-music.png"
       },
       {
         "id": "porcelain-white-blue-019-disc",
         "name": "Record Vinyl Disc (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-019-disc.png"
+        "path": "icons/porcelain-white-blue-019-disc.png"
       },
       {
         "id": "porcelain-white-blue-020-headphones",
         "name": "Headset Audio (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-020-headphones.png"
+        "path": "icons/porcelain-white-blue-020-headphones.png"
       },
       {
         "id": "porcelain-white-blue-021-volume",
         "name": "Volume Low (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-021-volume.png"
+        "path": "icons/porcelain-white-blue-021-volume.png"
       },
       {
         "id": "porcelain-white-blue-022-volume-2",
         "name": "Volume High (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-022-volume-2.png"
+        "path": "icons/porcelain-white-blue-022-volume-2.png"
       },
       {
         "id": "porcelain-white-blue-023-volume-x",
         "name": "Mute Audio (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-023-volume-x.png"
+        "path": "icons/porcelain-white-blue-023-volume-x.png"
       },
       {
         "id": "porcelain-white-blue-024-volume-off",
         "name": "Audio Device Off (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-024-volume-off.png"
+        "path": "icons/porcelain-white-blue-024-volume-off.png"
       },
       {
         "id": "porcelain-white-blue-025-play",
         "name": "Play Media (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-025-play.png"
+        "path": "icons/porcelain-white-blue-025-play.png"
       },
       {
         "id": "porcelain-white-blue-026-pause",
         "name": "Pause Media (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-026-pause.png"
+        "path": "icons/porcelain-white-blue-026-pause.png"
       },
       {
         "id": "porcelain-white-blue-027-square",
         "name": "Stop Media (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-027-square.png"
+        "path": "icons/porcelain-white-blue-027-square.png"
       },
       {
         "id": "porcelain-white-blue-028-skip-forward",
         "name": "Skip Track Forward (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-028-skip-forward.png"
+        "path": "icons/porcelain-white-blue-028-skip-forward.png"
       },
       {
         "id": "porcelain-white-blue-029-skip-back",
         "name": "Skip Track Back (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-029-skip-back.png"
+        "path": "icons/porcelain-white-blue-029-skip-back.png"
       },
       {
         "id": "porcelain-white-blue-030-repeat",
         "name": "Loop Playback (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-030-repeat.png"
+        "path": "icons/porcelain-white-blue-030-repeat.png"
       },
       {
         "id": "porcelain-white-blue-031-shuffle",
         "name": "Shuffle Tracks (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-031-shuffle.png"
+        "path": "icons/porcelain-white-blue-031-shuffle.png"
       },
       {
         "id": "porcelain-white-blue-032-cast",
         "name": "Cast / AirPlay (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-032-cast.png"
+        "path": "icons/porcelain-white-blue-032-cast.png"
       },
       {
         "id": "porcelain-white-blue-033-screen-share",
         "name": "Screen Share (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-033-screen-share.png"
+        "path": "icons/porcelain-white-blue-033-screen-share.png"
       },
       {
         "id": "porcelain-white-blue-034-monitor-play",
         "name": "Monitor Playback (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-034-monitor-play.png"
+        "path": "icons/porcelain-white-blue-034-monitor-play.png"
       },
       {
         "id": "porcelain-white-blue-035-audio-lines",
         "name": "Audio Lines EQ (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-035-audio-lines.png"
+        "path": "icons/porcelain-white-blue-035-audio-lines.png"
       },
       {
         "id": "porcelain-white-blue-036-audio-waveform",
         "name": "Audio Waveform (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-036-audio-waveform.png"
+        "path": "icons/porcelain-white-blue-036-audio-waveform.png"
       },
       {
         "id": "porcelain-white-blue-037-sparkles",
         "name": "Magic Sparkles (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-037-sparkles.png"
+        "path": "icons/porcelain-white-blue-037-sparkles.png"
       },
       {
         "id": "porcelain-white-blue-038-activity",
         "name": "Stream Health Activity (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-038-activity.png"
+        "path": "icons/porcelain-white-blue-038-activity.png"
       },
       {
         "id": "porcelain-white-blue-039-bell",
         "name": "Notification Bell (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-039-bell.png"
+        "path": "icons/porcelain-white-blue-039-bell.png"
       },
       {
         "id": "porcelain-white-blue-040-bell-ring",
         "name": "Ringing Bell Alert (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-040-bell-ring.png"
+        "path": "icons/porcelain-white-blue-040-bell-ring.png"
       },
       {
         "id": "porcelain-white-blue-041-message-square",
         "name": "Stream Chat (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-041-message-square.png"
+        "path": "icons/porcelain-white-blue-041-message-square.png"
       },
       {
         "id": "porcelain-white-blue-042-heart",
         "name": "Supporter Heart (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-042-heart.png"
+        "path": "icons/porcelain-white-blue-042-heart.png"
       },
       {
         "id": "porcelain-white-blue-043-flame",
         "name": "Hype Train Flame (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-043-flame.png"
+        "path": "icons/porcelain-white-blue-043-flame.png"
       },
       {
         "id": "porcelain-white-blue-044-award",
         "name": "Badge Award (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-044-award.png"
+        "path": "icons/porcelain-white-blue-044-award.png"
       },
       {
         "id": "porcelain-white-blue-045-trophy",
         "name": "Winner Trophy (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-045-trophy.png"
+        "path": "icons/porcelain-white-blue-045-trophy.png"
       },
       {
         "id": "porcelain-white-blue-046-steam",
         "name": "Steam (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-046-steam.png"
+        "path": "icons/porcelain-white-blue-046-steam.png"
       },
       {
         "id": "porcelain-white-blue-047-steamdeck",
         "name": "Steam Deck (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-047-steamdeck.png"
+        "path": "icons/porcelain-white-blue-047-steamdeck.png"
       },
       {
         "id": "porcelain-white-blue-048-epic-games",
         "name": "Epic Games (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-048-epic-games.png"
+        "path": "icons/porcelain-white-blue-048-epic-games.png"
       },
       {
         "id": "porcelain-white-blue-049-riot-games",
         "name": "Riot Games (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-049-riot-games.png"
+        "path": "icons/porcelain-white-blue-049-riot-games.png"
       },
       {
         "id": "porcelain-white-blue-050-minecraft",
         "name": "Minecraft (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-050-minecraft.png"
+        "path": "icons/porcelain-white-blue-050-minecraft.png"
       },
       {
         "id": "porcelain-white-blue-051-valorant",
         "name": "Valorant (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-051-valorant.png"
+        "path": "icons/porcelain-white-blue-051-valorant.png"
       },
       {
         "id": "porcelain-white-blue-052-apex-legends",
         "name": "Apex Legends (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-052-apex-legends.png"
+        "path": "icons/porcelain-white-blue-052-apex-legends.png"
       },
       {
         "id": "porcelain-white-blue-053-cs2",
         "name": "Counter-Strike 2 (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-053-cs2.png"
+        "path": "icons/porcelain-white-blue-053-cs2.png"
       },
       {
         "id": "porcelain-white-blue-054-fortnite",
         "name": "Fortnite (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-054-fortnite.png"
+        "path": "icons/porcelain-white-blue-054-fortnite.png"
       },
       {
         "id": "porcelain-white-blue-055-roblox",
         "name": "Roblox (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-055-roblox.png"
+        "path": "icons/porcelain-white-blue-055-roblox.png"
       },
       {
         "id": "porcelain-white-blue-056-battlenet",
         "name": "Battle.net (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-056-battlenet.png"
+        "path": "icons/porcelain-white-blue-056-battlenet.png"
       },
       {
         "id": "porcelain-white-blue-057-ea-app",
         "name": "EA App (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-057-ea-app.png"
+        "path": "icons/porcelain-white-blue-057-ea-app.png"
       },
       {
         "id": "porcelain-white-blue-058-ubisoft",
         "name": "Ubisoft Connect (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-058-ubisoft.png"
+        "path": "icons/porcelain-white-blue-058-ubisoft.png"
       },
       {
         "id": "porcelain-white-blue-059-gog-galaxy",
         "name": "GOG Galaxy (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-059-gog-galaxy.png"
+        "path": "icons/porcelain-white-blue-059-gog-galaxy.png"
       },
       {
         "id": "porcelain-white-blue-060-playstation",
         "name": "PlayStation Network (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-060-playstation.png"
+        "path": "icons/porcelain-white-blue-060-playstation.png"
       },
       {
         "id": "porcelain-white-blue-061-xbox",
         "name": "Xbox Live (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-061-xbox.png"
+        "path": "icons/porcelain-white-blue-061-xbox.png"
       },
       {
         "id": "porcelain-white-blue-062-nintendo-switch",
         "name": "Nintendo Switch (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-062-nintendo-switch.png"
+        "path": "icons/porcelain-white-blue-062-nintendo-switch.png"
       },
       {
         "id": "porcelain-white-blue-063-gamepad-2",
         "name": "Gamepad Controller (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-063-gamepad-2.png"
+        "path": "icons/porcelain-white-blue-063-gamepad-2.png"
       },
       {
         "id": "porcelain-white-blue-064-gamepad",
         "name": "Classic Gamepad (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-064-gamepad.png"
+        "path": "icons/porcelain-white-blue-064-gamepad.png"
       },
       {
         "id": "porcelain-white-blue-065-swords",
         "name": "Crossed Swords (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-065-swords.png"
+        "path": "icons/porcelain-white-blue-065-swords.png"
       },
       {
         "id": "porcelain-white-blue-066-sword",
         "name": "Combat Sword (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-066-sword.png"
+        "path": "icons/porcelain-white-blue-066-sword.png"
       },
       {
         "id": "porcelain-white-blue-067-shield",
         "name": "Knight Shield (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-067-shield.png"
+        "path": "icons/porcelain-white-blue-067-shield.png"
       },
       {
         "id": "porcelain-white-blue-068-shield-alert",
         "name": "Shield Warning (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-068-shield-alert.png"
+        "path": "icons/porcelain-white-blue-068-shield-alert.png"
       },
       {
         "id": "porcelain-white-blue-069-shield-check",
         "name": "Shield Verified (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-069-shield-check.png"
+        "path": "icons/porcelain-white-blue-069-shield-check.png"
       },
       {
         "id": "porcelain-white-blue-070-crown",
         "name": "Victory Crown (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-070-crown.png"
+        "path": "icons/porcelain-white-blue-070-crown.png"
       },
       {
         "id": "porcelain-white-blue-071-skull",
         "name": "Elimination Skull (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-071-skull.png"
+        "path": "icons/porcelain-white-blue-071-skull.png"
       },
       {
         "id": "porcelain-white-blue-072-bomb",
         "name": "Spike / Bomb (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-072-bomb.png"
+        "path": "icons/porcelain-white-blue-072-bomb.png"
       },
       {
         "id": "porcelain-white-blue-073-dices",
         "name": "RNG Dice Roll (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-073-dices.png"
+        "path": "icons/porcelain-white-blue-073-dices.png"
       },
       {
         "id": "porcelain-white-blue-074-zap",
         "name": "Energy Lightning (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-074-zap.png"
+        "path": "icons/porcelain-white-blue-074-zap.png"
       },
       {
         "id": "porcelain-white-blue-075-gem",
         "name": "Diamond Gem (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-075-gem.png"
+        "path": "icons/porcelain-white-blue-075-gem.png"
       },
       {
         "id": "porcelain-white-blue-076-ghost",
         "name": "Ghost Phantom (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-076-ghost.png"
+        "path": "icons/porcelain-white-blue-076-ghost.png"
       },
       {
         "id": "porcelain-white-blue-077-crosshair",
         "name": "Sniper Crosshair (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-077-crosshair.png"
+        "path": "icons/porcelain-white-blue-077-crosshair.png"
       },
       {
         "id": "porcelain-white-blue-078-joystick",
         "name": "Arcade Stick (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-078-joystick.png"
+        "path": "icons/porcelain-white-blue-078-joystick.png"
       },
       {
         "id": "porcelain-white-blue-079-rocket",
         "name": "Boost Rocket (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-079-rocket.png"
+        "path": "icons/porcelain-white-blue-079-rocket.png"
       },
       {
         "id": "porcelain-white-blue-080-medal",
         "name": "Medal of Honor (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-080-medal.png"
+        "path": "icons/porcelain-white-blue-080-medal.png"
       },
       {
         "id": "porcelain-white-blue-081-compass",
         "name": "Navigation Compass (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-081-compass.png"
+        "path": "icons/porcelain-white-blue-081-compass.png"
       },
       {
         "id": "porcelain-white-blue-082-flag",
         "name": "Capture The Flag (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-082-flag.png"
+        "path": "icons/porcelain-white-blue-082-flag.png"
       },
       {
         "id": "porcelain-white-blue-083-axe",
         "name": "Battle Axe (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-083-axe.png"
+        "path": "icons/porcelain-white-blue-083-axe.png"
       },
       {
         "id": "porcelain-white-blue-084-pickaxe",
         "name": "Mining Pickaxe (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-084-pickaxe.png"
+        "path": "icons/porcelain-white-blue-084-pickaxe.png"
       },
       {
         "id": "porcelain-white-blue-085-target",
         "name": "Bullseye Target (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-085-target.png"
+        "path": "icons/porcelain-white-blue-085-target.png"
       },
       {
         "id": "porcelain-white-blue-086-pubg",
         "name": "PUBG Battlegrounds (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-086-pubg.png"
+        "path": "icons/porcelain-white-blue-086-pubg.png"
       },
       {
         "id": "porcelain-white-blue-087-dota-2",
         "name": "Dota 2 (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-087-dota-2.png"
+        "path": "icons/porcelain-white-blue-087-dota-2.png"
       },
       {
         "id": "porcelain-white-blue-088-league-of-legends",
         "name": "League of Legends (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-088-league-of-legends.png"
+        "path": "icons/porcelain-white-blue-088-league-of-legends.png"
       },
       {
         "id": "porcelain-white-blue-089-cyberpunk-2077",
         "name": "Cyberpunk 2077 (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-089-cyberpunk-2077.png"
+        "path": "icons/porcelain-white-blue-089-cyberpunk-2077.png"
       },
       {
         "id": "porcelain-white-blue-090-among-us",
         "name": "Among Us (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-090-among-us.png"
+        "path": "icons/porcelain-white-blue-090-among-us.png"
       },
       {
         "id": "porcelain-white-blue-091-photoshop",
         "name": "Adobe Photoshop (Ps) (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-091-photoshop.png"
+        "path": "icons/porcelain-white-blue-091-photoshop.png"
       },
       {
         "id": "porcelain-white-blue-092-premiere",
         "name": "Adobe Premiere Pro (Pr) (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-092-premiere.png"
+        "path": "icons/porcelain-white-blue-092-premiere.png"
       },
       {
         "id": "porcelain-white-blue-093-adobe-ae",
         "name": "Adobe After Effects (Ae) (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-093-adobe-ae.png"
+        "path": "icons/porcelain-white-blue-093-adobe-ae.png"
       },
       {
         "id": "porcelain-white-blue-094-adobe-ai",
         "name": "Adobe Illustrator (Ai) (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-094-adobe-ai.png"
+        "path": "icons/porcelain-white-blue-094-adobe-ai.png"
       },
       {
         "id": "porcelain-white-blue-095-adobe-id",
         "name": "Adobe InDesign (Id) (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-095-adobe-id.png"
+        "path": "icons/porcelain-white-blue-095-adobe-id.png"
       },
       {
         "id": "porcelain-white-blue-096-adobe-xd",
         "name": "Adobe XD (Xd) (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-096-adobe-xd.png"
+        "path": "icons/porcelain-white-blue-096-adobe-xd.png"
       },
       {
         "id": "porcelain-white-blue-097-figma",
         "name": "Figma Design (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-097-figma.png"
+        "path": "icons/porcelain-white-blue-097-figma.png"
       },
       {
         "id": "porcelain-white-blue-098-blender",
         "name": "Blender 3D (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-098-blender.png"
+        "path": "icons/porcelain-white-blue-098-blender.png"
       },
       {
         "id": "porcelain-white-blue-099-davinci-resolve",
         "name": "DaVinci Resolve (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-099-davinci-resolve.png"
+        "path": "icons/porcelain-white-blue-099-davinci-resolve.png"
       },
       {
         "id": "porcelain-white-blue-100-fl-studio",
         "name": "FL Studio DAW (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-100-fl-studio.png"
+        "path": "icons/porcelain-white-blue-100-fl-studio.png"
       },
       {
         "id": "porcelain-white-blue-101-audacity",
         "name": "Audacity Audio (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-101-audacity.png"
+        "path": "icons/porcelain-white-blue-101-audacity.png"
       },
       {
         "id": "porcelain-white-blue-102-soundpad",
         "name": "Soundpad Effects (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-102-soundpad.png"
+        "path": "icons/porcelain-white-blue-102-soundpad.png"
       },
       {
         "id": "porcelain-white-blue-103-voicemeeter",
         "name": "Voicemeeter Audio (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-103-voicemeeter.png"
+        "path": "icons/porcelain-white-blue-103-voicemeeter.png"
       },
       {
         "id": "porcelain-white-blue-104-layers",
         "name": "Design Layers (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-104-layers.png"
+        "path": "icons/porcelain-white-blue-104-layers.png"
       },
       {
         "id": "porcelain-white-blue-105-crop",
         "name": "Canvas Crop Tool (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-105-crop.png"
+        "path": "icons/porcelain-white-blue-105-crop.png"
       },
       {
         "id": "porcelain-white-blue-106-palette",
         "name": "Color Swatch Palette (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-106-palette.png"
+        "path": "icons/porcelain-white-blue-106-palette.png"
       },
       {
         "id": "porcelain-white-blue-107-brush",
         "name": "Paint Brush (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-107-brush.png"
+        "path": "icons/porcelain-white-blue-107-brush.png"
       },
       {
         "id": "porcelain-white-blue-108-eraser",
         "name": "Eraser Tool (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-108-eraser.png"
+        "path": "icons/porcelain-white-blue-108-eraser.png"
       },
       {
         "id": "porcelain-white-blue-109-scissors",
         "name": "Cut Tool Scissors (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-109-scissors.png"
+        "path": "icons/porcelain-white-blue-109-scissors.png"
       },
       {
         "id": "porcelain-white-blue-110-image",
         "name": "Raster Graphic Image (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-110-image.png"
+        "path": "icons/porcelain-white-blue-110-image.png"
       },
       {
         "id": "porcelain-white-blue-111-aperture",
         "name": "Camera Aperture Lens (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-111-aperture.png"
+        "path": "icons/porcelain-white-blue-111-aperture.png"
       },
       {
         "id": "porcelain-white-blue-112-box",
         "name": "3D Wireframe Cube (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-112-box.png"
+        "path": "icons/porcelain-white-blue-112-box.png"
       },
       {
         "id": "porcelain-white-blue-113-wand-2",
         "name": "Magic Selection Wand (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-113-wand-2.png"
+        "path": "icons/porcelain-white-blue-113-wand-2.png"
       },
       {
         "id": "porcelain-white-blue-114-pipette",
         "name": "Color Eyedropper (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-114-pipette.png"
+        "path": "icons/porcelain-white-blue-114-pipette.png"
       },
       {
         "id": "porcelain-white-blue-115-pen-tool",
         "name": "Vector Bezier Pen (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-115-pen-tool.png"
+        "path": "icons/porcelain-white-blue-115-pen-tool.png"
       },
       {
         "id": "porcelain-white-blue-116-maximize-2",
         "name": "Fullscreen View (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-116-maximize-2.png"
+        "path": "icons/porcelain-white-blue-116-maximize-2.png"
       },
       {
         "id": "porcelain-white-blue-117-minimize-2",
         "name": "Minimize Canvas (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-117-minimize-2.png"
+        "path": "icons/porcelain-white-blue-117-minimize-2.png"
       },
       {
         "id": "porcelain-white-blue-118-ratio",
         "name": "Aspect Ratio 16:9 (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-118-ratio.png"
+        "path": "icons/porcelain-white-blue-118-ratio.png"
       },
       {
         "id": "porcelain-white-blue-119-grid",
         "name": "Alignment Guide Grid (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-119-grid.png"
+        "path": "icons/porcelain-white-blue-119-grid.png"
       },
       {
         "id": "porcelain-white-blue-120-shapes",
         "name": "Vector Shapes (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-120-shapes.png"
+        "path": "icons/porcelain-white-blue-120-shapes.png"
       },
       {
         "id": "porcelain-white-blue-121-file-image",
         "name": "Image Asset File (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-121-file-image.png"
+        "path": "icons/porcelain-white-blue-121-file-image.png"
       },
       {
         "id": "porcelain-white-blue-122-file-video",
         "name": "Video Asset File (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-122-file-video.png"
+        "path": "icons/porcelain-white-blue-122-file-video.png"
       },
       {
         "id": "porcelain-white-blue-123-file-audio",
         "name": "Audio Stems File (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-123-file-audio.png"
+        "path": "icons/porcelain-white-blue-123-file-audio.png"
       },
       {
         "id": "porcelain-white-blue-124-sliders-horizontal",
         "name": "EQ Sliders Mixer (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-124-sliders-horizontal.png"
+        "path": "icons/porcelain-white-blue-124-sliders-horizontal.png"
       },
       {
         "id": "porcelain-white-blue-125-contrast",
         "name": "Display Contrast (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-125-contrast.png"
+        "path": "icons/porcelain-white-blue-125-contrast.png"
       },
       {
         "id": "porcelain-white-blue-126-sun-medium",
         "name": "Exposure Brightness (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-126-sun-medium.png"
+        "path": "icons/porcelain-white-blue-126-sun-medium.png"
       },
       {
         "id": "porcelain-white-blue-127-clapperboard",
         "name": "Production Scene Take (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-127-clapperboard.png"
+        "path": "icons/porcelain-white-blue-127-clapperboard.png"
       },
       {
         "id": "porcelain-white-blue-128-sparkles",
         "name": "VFX Glitz Sparkle (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-128-sparkles.png"
+        "path": "icons/porcelain-white-blue-128-sparkles.png"
       },
       {
         "id": "porcelain-white-blue-129-key",
         "name": "Animation Keyframe (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-129-key.png"
+        "path": "icons/porcelain-white-blue-129-key.png"
       },
       {
         "id": "porcelain-white-blue-130-split",
         "name": "Split Clip Splitter (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-130-split.png"
+        "path": "icons/porcelain-white-blue-130-split.png"
       },
       {
         "id": "porcelain-white-blue-131-chatgpt",
         "name": "ChatGPT OpenAI (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-131-chatgpt.png"
+        "path": "icons/porcelain-white-blue-131-chatgpt.png"
       },
       {
         "id": "porcelain-white-blue-132-claude-ai",
         "name": "Claude AI Anthropic (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-132-claude-ai.png"
+        "path": "icons/porcelain-white-blue-132-claude-ai.png"
       },
       {
         "id": "porcelain-white-blue-133-gemini-ai",
         "name": "Google Gemini AI (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-133-gemini-ai.png"
+        "path": "icons/porcelain-white-blue-133-gemini-ai.png"
       },
       {
         "id": "porcelain-white-blue-134-notion",
         "name": "Notion Workspace (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-134-notion.png"
+        "path": "icons/porcelain-white-blue-134-notion.png"
       },
       {
         "id": "porcelain-white-blue-135-github",
         "name": "GitHub Repository (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-135-github.png"
+        "path": "icons/porcelain-white-blue-135-github.png"
       },
       {
         "id": "porcelain-white-blue-136-git-branch",
         "name": "Git Version Branch (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-136-git-branch.png"
+        "path": "icons/porcelain-white-blue-136-git-branch.png"
       },
       {
         "id": "porcelain-white-blue-137-terminal",
         "name": "Terminal Console (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-137-terminal.png"
+        "path": "icons/porcelain-white-blue-137-terminal.png"
       },
       {
         "id": "porcelain-white-blue-138-python",
         "name": "Python Language (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-138-python.png"
+        "path": "icons/porcelain-white-blue-138-python.png"
       },
       {
         "id": "porcelain-white-blue-139-vscode",
         "name": "Visual Studio Code (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-139-vscode.png"
+        "path": "icons/porcelain-white-blue-139-vscode.png"
       },
       {
         "id": "porcelain-white-blue-140-docker",
         "name": "Docker Container (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-140-docker.png"
+        "path": "icons/porcelain-white-blue-140-docker.png"
       },
       {
         "id": "porcelain-white-blue-141-apple",
         "name": "Apple macOS (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-141-apple.png"
+        "path": "icons/porcelain-white-blue-141-apple.png"
       },
       {
         "id": "porcelain-white-blue-142-windows",
         "name": "Microsoft Windows (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-142-windows.png"
+        "path": "icons/porcelain-white-blue-142-windows.png"
       },
       {
         "id": "porcelain-white-blue-143-linux",
         "name": "Linux Penguin (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-143-linux.png"
+        "path": "icons/porcelain-white-blue-143-linux.png"
       },
       {
         "id": "porcelain-white-blue-144-android",
         "name": "Android Google (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-144-android.png"
+        "path": "icons/porcelain-white-blue-144-android.png"
       },
       {
         "id": "porcelain-white-blue-145-chrome",
         "name": "Google Chrome (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-145-chrome.png"
+        "path": "icons/porcelain-white-blue-145-chrome.png"
       },
       {
         "id": "porcelain-white-blue-146-firefox",
         "name": "Mozilla Firefox (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-146-firefox.png"
+        "path": "icons/porcelain-white-blue-146-firefox.png"
       },
       {
         "id": "porcelain-white-blue-147-brave",
         "name": "Brave Browser (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-147-brave.png"
+        "path": "icons/porcelain-white-blue-147-brave.png"
       },
       {
         "id": "porcelain-white-blue-148-edge",
         "name": "Microsoft Edge (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-148-edge.png"
+        "path": "icons/porcelain-white-blue-148-edge.png"
       },
       {
         "id": "porcelain-white-blue-149-safari",
         "name": "Apple Safari (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-149-safari.png"
+        "path": "icons/porcelain-white-blue-149-safari.png"
       },
       {
         "id": "porcelain-white-blue-150-slack",
         "name": "Slack Workspace (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-150-slack.png"
+        "path": "icons/porcelain-white-blue-150-slack.png"
       },
       {
         "id": "porcelain-white-blue-151-trello",
         "name": "Trello Kanban (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-151-trello.png"
+        "path": "icons/porcelain-white-blue-151-trello.png"
       },
       {
         "id": "porcelain-white-blue-152-google-drive",
         "name": "Google Drive Cloud (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-152-google-drive.png"
+        "path": "icons/porcelain-white-blue-152-google-drive.png"
       },
       {
         "id": "porcelain-white-blue-153-database",
         "name": "SQL Database (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-153-database.png"
+        "path": "icons/porcelain-white-blue-153-database.png"
       },
       {
         "id": "porcelain-white-blue-154-server",
         "name": "Cloud Host Server (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-154-server.png"
+        "path": "icons/porcelain-white-blue-154-server.png"
       },
       {
         "id": "porcelain-white-blue-155-cloud",
         "name": "Cloud Network (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-155-cloud.png"
+        "path": "icons/porcelain-white-blue-155-cloud.png"
       },
       {
         "id": "porcelain-white-blue-156-cloud-download",
         "name": "Cloud Sync Download (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-156-cloud-download.png"
+        "path": "icons/porcelain-white-blue-156-cloud-download.png"
       },
       {
         "id": "porcelain-white-blue-157-cloud-upload",
         "name": "Cloud Sync Upload (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-157-cloud-upload.png"
+        "path": "icons/porcelain-white-blue-157-cloud-upload.png"
       },
       {
         "id": "porcelain-white-blue-158-code",
         "name": "Source Code XML (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-158-code.png"
+        "path": "icons/porcelain-white-blue-158-code.png"
       },
       {
         "id": "porcelain-white-blue-159-code-2",
         "name": "Source Code Block (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-159-code-2.png"
+        "path": "icons/porcelain-white-blue-159-code-2.png"
       },
       {
         "id": "porcelain-white-blue-160-bug",
         "name": "Debug Crash Bug (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-160-bug.png"
+        "path": "icons/porcelain-white-blue-160-bug.png"
       },
       {
         "id": "porcelain-white-blue-161-cpu",
         "name": "Processor Microchip (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-161-cpu.png"
+        "path": "icons/porcelain-white-blue-161-cpu.png"
       },
       {
         "id": "porcelain-white-blue-162-hard-drive",
         "name": "SSD Disk Storage (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-162-hard-drive.png"
+        "path": "icons/porcelain-white-blue-162-hard-drive.png"
       },
       {
         "id": "porcelain-white-blue-163-wifi",
         "name": "Wireless Wi-Fi (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-163-wifi.png"
+        "path": "icons/porcelain-white-blue-163-wifi.png"
       },
       {
         "id": "porcelain-white-blue-164-wifi-off",
         "name": "Disconnect Wi-Fi (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-164-wifi-off.png"
+        "path": "icons/porcelain-white-blue-164-wifi-off.png"
       },
       {
         "id": "porcelain-white-blue-165-bluetooth",
         "name": "Bluetooth Pair (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-165-bluetooth.png"
+        "path": "icons/porcelain-white-blue-165-bluetooth.png"
       },
       {
         "id": "porcelain-white-blue-166-battery-charging",
         "name": "Battery Charging (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-166-battery-charging.png"
+        "path": "icons/porcelain-white-blue-166-battery-charging.png"
       },
       {
         "id": "porcelain-white-blue-167-lock",
         "name": "Encrypted Lock (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-167-lock.png"
+        "path": "icons/porcelain-white-blue-167-lock.png"
       },
       {
         "id": "porcelain-white-blue-168-unlock",
         "name": "Decrypted Unlock (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-168-unlock.png"
+        "path": "icons/porcelain-white-blue-168-unlock.png"
       },
       {
         "id": "porcelain-white-blue-169-key",
         "name": "Authentication Key (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-169-key.png"
+        "path": "icons/porcelain-white-blue-169-key.png"
       },
       {
         "id": "porcelain-white-blue-170-shield-check",
         "name": "Verified SSL Shield (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-170-shield-check.png"
+        "path": "icons/porcelain-white-blue-170-shield-check.png"
       },
       {
         "id": "porcelain-white-blue-171-home",
         "name": "Home Dashboard (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-171-home.png"
+        "path": "icons/porcelain-white-blue-171-home.png"
       },
       {
         "id": "porcelain-white-blue-172-search",
         "name": "Search Bar (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-172-search.png"
+        "path": "icons/porcelain-white-blue-172-search.png"
       },
       {
         "id": "porcelain-white-blue-173-folder",
         "name": "Directory Folder (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-173-folder.png"
+        "path": "icons/porcelain-white-blue-173-folder.png"
       },
       {
         "id": "porcelain-white-blue-174-folder-open",
         "name": "Open Folder (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-174-folder-open.png"
+        "path": "icons/porcelain-white-blue-174-folder-open.png"
       },
       {
         "id": "porcelain-white-blue-175-file",
         "name": "Document File (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-175-file.png"
+        "path": "icons/porcelain-white-blue-175-file.png"
       },
       {
         "id": "porcelain-white-blue-176-file-text",
         "name": "Text Document File (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-176-file-text.png"
+        "path": "icons/porcelain-white-blue-176-file-text.png"
       },
       {
         "id": "porcelain-white-blue-177-save",
         "name": "Save File Disk (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-177-save.png"
+        "path": "icons/porcelain-white-blue-177-save.png"
       },
       {
         "id": "porcelain-white-blue-178-trash-2",
         "name": "Recycle Bin Trash (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-178-trash-2.png"
+        "path": "icons/porcelain-white-blue-178-trash-2.png"
       },
       {
         "id": "porcelain-white-blue-179-settings",
         "name": "System Settings Gear (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-179-settings.png"
+        "path": "icons/porcelain-white-blue-179-settings.png"
       },
       {
         "id": "porcelain-white-blue-180-settings-2",
         "name": "Preferences Controls (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-180-settings-2.png"
+        "path": "icons/porcelain-white-blue-180-settings-2.png"
       },
       {
         "id": "porcelain-white-blue-181-sliders",
         "name": "Hardware Sliders (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-181-sliders.png"
+        "path": "icons/porcelain-white-blue-181-sliders.png"
       },
       {
         "id": "porcelain-white-blue-182-refresh-cw",
         "name": "Refresh Browser Page (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-182-refresh-cw.png"
+        "path": "icons/porcelain-white-blue-182-refresh-cw.png"
       },
       {
         "id": "porcelain-white-blue-183-rotate-cw",
         "name": "Rotate Clockwise (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-183-rotate-cw.png"
+        "path": "icons/porcelain-white-blue-183-rotate-cw.png"
       },
       {
         "id": "porcelain-white-blue-184-rotate-ccw",
         "name": "Rotate Counter-Clockwise (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-184-rotate-ccw.png"
+        "path": "icons/porcelain-white-blue-184-rotate-ccw.png"
       },
       {
         "id": "porcelain-white-blue-185-download",
         "name": "Download to Disk (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-185-download.png"
+        "path": "icons/porcelain-white-blue-185-download.png"
       },
       {
         "id": "porcelain-white-blue-186-upload",
         "name": "Upload to Web (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-186-upload.png"
+        "path": "icons/porcelain-white-blue-186-upload.png"
       },
       {
         "id": "porcelain-white-blue-187-clipboard",
         "name": "Pasteboard Clipboard (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-187-clipboard.png"
+        "path": "icons/porcelain-white-blue-187-clipboard.png"
       },
       {
         "id": "porcelain-white-blue-188-clipboard-check",
         "name": "Checklist Done (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-188-clipboard-check.png"
+        "path": "icons/porcelain-white-blue-188-clipboard-check.png"
       },
       {
         "id": "porcelain-white-blue-189-copy",
         "name": "Copy to Clipboard (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-189-copy.png"
+        "path": "icons/porcelain-white-blue-189-copy.png"
       },
       {
         "id": "porcelain-white-blue-190-share-2",
         "name": "Share Network Link (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-190-share-2.png"
+        "path": "icons/porcelain-white-blue-190-share-2.png"
       },
       {
         "id": "porcelain-white-blue-191-external-link",
         "name": "Open External Window (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-191-external-link.png"
+        "path": "icons/porcelain-white-blue-191-external-link.png"
       },
       {
         "id": "porcelain-white-blue-192-bookmark",
         "name": "Bookmark Favorite (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-192-bookmark.png"
+        "path": "icons/porcelain-white-blue-192-bookmark.png"
       },
       {
         "id": "porcelain-white-blue-193-calendar",
         "name": "Calendar Schedule (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-193-calendar.png"
+        "path": "icons/porcelain-white-blue-193-calendar.png"
       },
       {
         "id": "porcelain-white-blue-194-calendar-days",
         "name": "Monthly Calendar (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-194-calendar-days.png"
+        "path": "icons/porcelain-white-blue-194-calendar-days.png"
       },
       {
         "id": "porcelain-white-blue-195-clock",
         "name": "Clock Time (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-195-clock.png"
+        "path": "icons/porcelain-white-blue-195-clock.png"
       },
       {
         "id": "porcelain-white-blue-196-timer",
         "name": "Countdown Timer (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-196-timer.png"
+        "path": "icons/porcelain-white-blue-196-timer.png"
       },
       {
         "id": "porcelain-white-blue-197-calculator",
         "name": "Math Calculator (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-197-calculator.png"
+        "path": "icons/porcelain-white-blue-197-calculator.png"
       },
       {
         "id": "porcelain-white-blue-198-power",
         "name": "Power On / Off (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-198-power.png"
+        "path": "icons/porcelain-white-blue-198-power.png"
       },
       {
         "id": "porcelain-white-blue-199-moon",
         "name": "Sleep Standby Mode (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-199-moon.png"
+        "path": "icons/porcelain-white-blue-199-moon.png"
       },
       {
         "id": "porcelain-white-blue-200-monitor",
         "name": "Display Monitor (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-200-monitor.png"
+        "path": "icons/porcelain-white-blue-200-monitor.png"
       },
       {
         "id": "porcelain-white-blue-201-keyboard",
         "name": "Typing Keyboard (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-201-keyboard.png"
+        "path": "icons/porcelain-white-blue-201-keyboard.png"
       },
       {
         "id": "porcelain-white-blue-202-mouse",
         "name": "Cursor Mouse (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-202-mouse.png"
+        "path": "icons/porcelain-white-blue-202-mouse.png"
       },
       {
         "id": "porcelain-white-blue-203-printer",
         "name": "Print Hardcopy (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-203-printer.png"
+        "path": "icons/porcelain-white-blue-203-printer.png"
       },
       {
         "id": "porcelain-white-blue-204-undo-2",
         "name": "Undo Previous Action (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-204-undo-2.png"
+        "path": "icons/porcelain-white-blue-204-undo-2.png"
       },
       {
         "id": "porcelain-white-blue-205-redo-2",
         "name": "Redo Action (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-205-redo-2.png"
+        "path": "icons/porcelain-white-blue-205-redo-2.png"
       },
       {
         "id": "porcelain-white-blue-206-check",
         "name": "Checkmark Approved (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-206-check.png"
+        "path": "icons/porcelain-white-blue-206-check.png"
       },
       {
         "id": "porcelain-white-blue-207-check-circle-2",
         "name": "Verified Check Badge (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-207-check-circle-2.png"
+        "path": "icons/porcelain-white-blue-207-check-circle-2.png"
       },
       {
         "id": "porcelain-white-blue-208-x",
         "name": "Cancel Dismiss (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-208-x.png"
+        "path": "icons/porcelain-white-blue-208-x.png"
       },
       {
         "id": "porcelain-white-blue-209-x-circle",
         "name": "Error Failed Badge (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-209-x-circle.png"
+        "path": "icons/porcelain-white-blue-209-x-circle.png"
       },
       {
         "id": "porcelain-white-blue-210-help-circle",
         "name": "Help FAQ Support (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-210-help-circle.png"
+        "path": "icons/porcelain-white-blue-210-help-circle.png"
       },
       {
         "id": "porcelain-white-blue-211-discord",
         "name": "Discord (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-211-discord.png"
+        "path": "icons/porcelain-white-blue-211-discord.png"
       },
       {
         "id": "porcelain-white-blue-212-spotify",
         "name": "Spotify Music (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-212-spotify.png"
+        "path": "icons/porcelain-white-blue-212-spotify.png"
       },
       {
         "id": "porcelain-white-blue-213-applemusic",
         "name": "Apple Music (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-213-applemusic.png"
+        "path": "icons/porcelain-white-blue-213-applemusic.png"
       },
       {
         "id": "porcelain-white-blue-214-soundcloud",
         "name": "SoundCloud (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-214-soundcloud.png"
+        "path": "icons/porcelain-white-blue-214-soundcloud.png"
       },
       {
         "id": "porcelain-white-blue-215-twitter-x",
         "name": "X (Formerly Twitter) (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-215-twitter-x.png"
+        "path": "icons/porcelain-white-blue-215-twitter-x.png"
       },
       {
         "id": "porcelain-white-blue-216-instagram",
         "name": "Instagram (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-216-instagram.png"
+        "path": "icons/porcelain-white-blue-216-instagram.png"
       },
       {
         "id": "porcelain-white-blue-217-tiktok",
         "name": "TikTok (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-217-tiktok.png"
+        "path": "icons/porcelain-white-blue-217-tiktok.png"
       },
       {
         "id": "porcelain-white-blue-218-threads",
         "name": "Threads Meta (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-218-threads.png"
+        "path": "icons/porcelain-white-blue-218-threads.png"
       },
       {
         "id": "porcelain-white-blue-219-reddit",
         "name": "Reddit Community (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-219-reddit.png"
+        "path": "icons/porcelain-white-blue-219-reddit.png"
       },
       {
         "id": "porcelain-white-blue-220-telegram",
         "name": "Telegram Messenger (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-220-telegram.png"
+        "path": "icons/porcelain-white-blue-220-telegram.png"
       },
       {
         "id": "porcelain-white-blue-221-whatsapp",
         "name": "WhatsApp Messenger (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-221-whatsapp.png"
+        "path": "icons/porcelain-white-blue-221-whatsapp.png"
       },
       {
         "id": "porcelain-white-blue-222-mail",
         "name": "Electronic Mail Envelope (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-222-mail.png"
+        "path": "icons/porcelain-white-blue-222-mail.png"
       },
       {
         "id": "porcelain-white-blue-223-mail-open",
         "name": "Read Mail (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-223-mail-open.png"
+        "path": "icons/porcelain-white-blue-223-mail-open.png"
       },
       {
         "id": "porcelain-white-blue-224-phone",
         "name": "Voice Call Phone (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-224-phone.png"
+        "path": "icons/porcelain-white-blue-224-phone.png"
       },
       {
         "id": "porcelain-white-blue-225-phone-call",
         "name": "Active Incoming Call (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-225-phone-call.png"
+        "path": "icons/porcelain-white-blue-225-phone-call.png"
       },
       {
         "id": "porcelain-white-blue-226-message-circle",
         "name": "Direct Message Chat (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-226-message-circle.png"
+        "path": "icons/porcelain-white-blue-226-message-circle.png"
       },
       {
         "id": "porcelain-white-blue-227-send",
         "name": "Send Outgoing Message (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-227-send.png"
+        "path": "icons/porcelain-white-blue-227-send.png"
       },
       {
         "id": "porcelain-white-blue-228-inbox",
         "name": "Mail Inbox (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-228-inbox.png"
+        "path": "icons/porcelain-white-blue-228-inbox.png"
       },
       {
         "id": "porcelain-white-blue-229-users",
         "name": "Community Members (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-229-users.png"
+        "path": "icons/porcelain-white-blue-229-users.png"
       },
       {
         "id": "porcelain-white-blue-230-user",
         "name": "User Profile Account (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-230-user.png"
+        "path": "icons/porcelain-white-blue-230-user.png"
       },
       {
         "id": "porcelain-white-blue-231-user-plus",
         "name": "Add Subscriber Friend (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-231-user-plus.png"
+        "path": "icons/porcelain-white-blue-231-user-plus.png"
       },
       {
         "id": "porcelain-white-blue-232-at-sign",
         "name": "Mention Handle (@) (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-232-at-sign.png"
+        "path": "icons/porcelain-white-blue-232-at-sign.png"
       },
       {
         "id": "porcelain-white-blue-233-hash",
         "name": "Hashtag Topic (#) (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-233-hash.png"
+        "path": "icons/porcelain-white-blue-233-hash.png"
       },
       {
         "id": "porcelain-white-blue-234-link-2",
         "name": "Direct Hyperlink (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-234-link-2.png"
+        "path": "icons/porcelain-white-blue-234-link-2.png"
       },
       {
         "id": "porcelain-white-blue-235-thumbs-up",
         "name": "Like Thumbs Up (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-235-thumbs-up.png"
+        "path": "icons/porcelain-white-blue-235-thumbs-up.png"
       },
       {
         "id": "porcelain-white-blue-236-smile",
         "name": "Emote Reaction (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-236-smile.png"
+        "path": "icons/porcelain-white-blue-236-smile.png"
       },
       {
         "id": "porcelain-white-blue-237-star",
         "name": "Favorite Star (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-237-star.png"
+        "path": "icons/porcelain-white-blue-237-star.png"
       },
       {
         "id": "porcelain-white-blue-238-pin",
         "name": "Pinned Message (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-238-pin.png"
+        "path": "icons/porcelain-white-blue-238-pin.png"
       },
       {
         "id": "porcelain-white-blue-239-map-pin",
         "name": "Location Tag (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-239-map-pin.png"
+        "path": "icons/porcelain-white-blue-239-map-pin.png"
       },
       {
         "id": "porcelain-white-blue-240-globe",
         "name": "Worldwide Web Globe (Beyaz-Mavi)",
-        "path": "assets/icons/porcelain-white-blue-240-globe.png"
+        "path": "icons/porcelain-white-blue-240-globe.png"
       }
     ],
     "sounds": []
